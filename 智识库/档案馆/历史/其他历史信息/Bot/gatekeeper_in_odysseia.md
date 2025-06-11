@@ -2,7 +2,7 @@
 title: Gatekeeper in Odysseia
 description: 由 Durvis 主导开发的Discord Bot
 published: true
-date: 2025-06-11T05:16:09.674Z
+date: 2025-06-11T06:55:31.979Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-11T04:43:36.851Z
@@ -72,7 +72,7 @@ Gatekeeper in Odysseia 在 Github 上的公开和私有仓库，以及 Github �
 
 ![gatekeeper-shaohua-image-download-1.png](/all_upload_files_should_in_here/archives/history/other_historical_info/bot/gatekeeper_in_odysseia/gatekeeper-shaohua-image-download-1.png)
 
-该头像上的实际人物实际上是 染月青花 于 2024/11/8 在类脑纯净区发布的角色卡 [`[双性向:更新女性向][神由人兴 人遗则亡]-已经被人们遗忘的神祇:昭华`](https://discord.com/channels/1134557553011998840/1304306802351149149) 的人物形象。
+该头像上的实际人物实际上是 [染月青花](/智识库/档案馆/历史/历史人物/染月青花) 于 2024/11/8 在类脑纯净区发布的角色卡 [`[双性向:更新女性向][神由人兴 人遗则亡]-已经被人们遗忘的神祇:昭华`](https://discord.com/channels/1134557553011998840/1304306802351149149) 的人物形象。
 
 
  
