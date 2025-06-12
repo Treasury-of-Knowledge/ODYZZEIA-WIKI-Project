@@ -2,7 +2,7 @@
 title: Gatekeeper in Odysseia
 description: 由 Durvis 主导开发的Discord Bot
 published: true
-date: 2025-06-11T07:21:35.857Z
+date: 2025-06-12T13:12:09.155Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-11T04:43:36.851Z
@@ -27,6 +27,14 @@ Gatekeeper in Odysseia(又称：Gatekeeper in Horizon) 是由 [Durvis](/智识�
 
 - Gatekeeper in Odysseia 更名为 Gatekeeper in Horizon，并在旅程持续运行。但我们仍可以在 Gatekeeper 的 Discord 信息页面（图1）中看到 Gatekeeper in Odysseia#6102 这样的痕迹。
 
+---
+
+# 争议内容
+
+Gatekeeper in Odysseia 在 5·20 事件中一度陷入争议中，主要争议内容如下：
+- 作为开源社区的管理 Bot 长期一直是闭源项目
+- 作为全权限Bot，Gatekeeper in Odysseia 在类脑陷入了信任危机
+- 类脑与旅程两个社区时任管理层关于 Bot 代码的争议问题（见：[《关于类脑现行管理窃取0commit代码的通告》](https://discord.com/channels/1291925535324110879/1337462067703058543/1374703062689644565)）
 
 ---
 
