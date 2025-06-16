@@ -2,7 +2,7 @@
 title: 获取AI渠道
 description: 
 published: true
-date: 2025-02-15T06:30:39.182Z
+date: 2025-06-16T09:28:03.906Z
 tags: 导航页
 editor: markdown
 dateCreated: 2025-02-15T06:30:38.072Z
@@ -26,6 +26,11 @@ dateCreated: 2025-02-15T06:30:38.072Z
       <em>Pro退款流教程</em>
     </a>
   </li>
+  <li>
+    <a href="智识库/sandbox/神明，你也不想我刷不了怨念吧/Pro退款留前置搞一个普号" class="is-internal-link is-valid-page">获取ai渠道
+      <em>Pro退款留前置搞一个普号</em>
+    </a>
+  </li>
 </ul>
 <ul class="links-list">
   <li>
@@ -41,5 +46,8 @@ dateCreated: 2025-02-15T06:30:38.072Z
     </a>
   </li>
 </ul>
+
+
+
 
 ---
