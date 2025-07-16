@@ -2,7 +2,7 @@
 title: 搭建部署
 description: 搭建部署
 published: true
-date: 2025-04-05T14:09:35.896Z
+date: 2025-07-16T05:51:51.197Z
 tags: 搭建部署
 editor: markdown
 dateCreated: 2025-02-11T07:56:24.708Z
@@ -24,6 +24,12 @@ dateCreated: 2025-02-11T07:56:24.708Z
 ---
 # 目录
 ---
+<ul class="links-list">
+  <li>
+    <a href="/智识库/sandbox/KKTsN/新宝宝教程-flash" class="is-internal-link is-valid-page">搭建部署
+      <em>新一站式宝宝教程-flash</em>
+    </a>
+  </li>
 <ul class="links-list">
   <li>
     <a href="/智识库/sandbox/方素琪/Windows本地部署酒馆与clewd教程" class="is-internal-link is-valid-page">搭建部署
