@@ -1,8 +1,8 @@
 ---
-title: 新宝宝教程-flash
+title: 新一站式宝宝教程-flash
 description: 
-published: false
-date: 2025-07-16T04:27:29.124Z
+published: true
+date: 2025-07-16T04:28:16.741Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
