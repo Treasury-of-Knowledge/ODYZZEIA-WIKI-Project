@@ -2,7 +2,7 @@
 title: 新一站式宝宝教程-flash
 description: 
 published: true
-date: 2025-07-16T04:28:16.741Z
+date: 2025-07-16T04:30:27.550Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
@@ -121,9 +121,12 @@ dateCreated: 2025-07-16T04:21:19.440Z
 
 
 第3步: （可选）配置git代理/TUN模式
-由于一些镜像源似乎会导致无法安装或更新酒馆及一些扩展，这里为git配置代理而不是使用镜像
-当然，也可以使用代理工具的TUN模式（或称虚拟网卡模式）
+> 由于一些镜像源似乎会导致无法安装或更新酒馆及一些扩展，这里为git配置代理
+> 当然，也可以使用代理工具的TUN模式（或称虚拟网卡模式）
+{.is-info}
+
 ⬆️如果看不懂以上两行，也不用担心，直接跟着下面走就可以
+
 方法1: 配置代理
 
 1. 打开你的代理工具，找到它使用的端口（clash verge默认是7897, 而v2ray默认是10808）如果不知道在哪里找，可以在网上搜索'xxx（代理工具的名字）怎么查看使用的端口'
@@ -142,7 +145,10 @@ git config --global http.proxy http://127.0.0.1:10808
 git config --global https.proxy https://127.0.0.1:10808
 ```
 
-输入完成后可以使用`git config --global --get http.proxy`，`git config --global --get https.proxy`确认代理设置成功
+输入完成后可以使用
+`git config --global --get http.proxy`
+`git config --global --get https.proxy`
+确认代理设置成功
 
 ![gitueviddli.png](/all_upload_files_should_in_here/sandbox_area/kktsn/gitueviddli.png)
 
@@ -181,7 +187,8 @@ git clone https://github.com/SillyTavern/SillyTavern -b release
 第7步: 安装npm依赖并启动酒馆
 打开上一步完成后新出现的文件夹（名字应该叫SillyTavern），找到start.bat（如果没有开显示文件扩展名那么就叫start），双击它，酒馆会自动安装npm依赖。
 
-耐心等待几分钟，弹出的黑框内可能会有些warn但是不用担心。依赖安装完成后，酒馆应该会自动启动，在默认浏览器中打开酒馆。
+耐心等待几分钟，弹出的黑框内可能会有些warn但是不用担心。
+依赖安装完成后，酒馆应该会自动启动，在默认浏览器中打开酒馆。
 
 如果没有自动打开，在浏览器中打开这个蓝色的链接，也可以手动进入酒馆。
 
