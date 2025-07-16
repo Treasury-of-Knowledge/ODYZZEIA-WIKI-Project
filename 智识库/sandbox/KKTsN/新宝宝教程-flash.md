@@ -2,7 +2,7 @@
 title: 新宝宝教程-flash
 description: 
 published: false
-date: 2025-07-16T04:23:03.915Z
+date: 2025-07-16T04:25:28.759Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
@@ -12,7 +12,7 @@ dateCreated: 2025-07-16T04:21:19.440Z
 
 # 0 简介
 
-> 作者: KKTsN(橘狐) （Discord @kk1189_61801）采用 CC BY-NC-SA 4.0许可协议
+> 作者: KKTsN(橘狐) （Discord @kk1189_61801）采用 [CC BY-NC-SA 4.0许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
 最后更新日期: 20250716
 本教程包括的内容:
@@ -35,7 +35,7 @@ dateCreated: 2025-07-16T04:21:19.440Z
 > 所有'xxx'都代表'这里应该有内容，但不一定是什么内容'，**不是真的三个X**
 > **不要使用XXVPN, XX加速器等连端口都看不到的代理工具，这种梯子往往质量极差**
 
-> **点击浏览器右侧的目录可以方便地在各章节之间跳转；也可以使用浏览器的搜索**
+> **点击目录可以方便地在各章节之间跳转；也可以使用浏览器的搜索**
 {.is-success}
 
 
