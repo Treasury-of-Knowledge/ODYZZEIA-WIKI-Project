@@ -2,7 +2,7 @@
 title: 新一站式宝宝教程-flash
 description: 
 published: true
-date: 2025-07-16T14:43:31.287Z
+date: 2025-07-18T03:01:22.953Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
@@ -120,14 +120,19 @@ dateCreated: 2025-07-16T04:21:19.440Z
 ![uevinpmjkxl.png](/all_upload_files_should_in_here/sandbox_area/kktsn/uevinpmjkxl.png)
 
 
-第3步: （可选）配置git代理/TUN模式
+第3步: （可选）TUN模式/配置git代理
 > 由于一些镜像源似乎会导致无法安装或更新酒馆及一些扩展，这里为git配置代理
 > 当然，也可以使用代理工具的TUN模式（或称虚拟网卡模式）
 {.is-info}
 
 ⬆️如果看不懂以上两行，也不用担心，直接跟着下面走就可以
 
-方法1: 配置代理
+方法1: （推荐！）开启TUN模式
+方法请自行搜索: `(自己的代理工具名称) 如何开启TUN模式（虚拟网卡模式）`
+
+---
+
+方法2: 配置代理
 
 1. 打开你的代理工具，找到它使用的端口（clash verge默认是7897, 而v2ray默认是10808）如果不知道在哪里找，可以在网上搜索'xxx（代理工具的名字）怎么查看使用的端口'
 2. 在PowerShell中输入:
@@ -152,8 +157,7 @@ git config --global https.proxy https://127.0.0.1:10808
 
 ![gitueviddli.png](/all_upload_files_should_in_here/sandbox_area/kktsn/gitueviddli.png)
 
-方法2: 开启TUN模式
-方法请自行搜索: `(自己的代理工具名称) 如何开启TUN模式（虚拟网卡模式）`
+
 
 
 
@@ -351,7 +355,7 @@ API 即 AI的来源，没有有效的API连接就无法给AI发送消息
 
 已有可用小号的话可以直接看第2步
 
-1. 访问[登录谷歌账号的地方](https://accounts.google.com) 创建账号
+1. 将梯子节点改成香港，俄罗斯以外的国家或地区，访问[登录谷歌账号的地方](https://accounts.google.com) 创建账号
 2. 填写了一堆信息后，谷歌会要求手机号验证（如果梯子质量很好的话可能不需要），可以尝试用+86手机号验证或者使用接码平台（涉及付费这里不作推荐）
 
 第2步: 创建项目和key
@@ -386,8 +390,8 @@ API 即 AI的来源，没有有效的API连接就无法给AI发送消息
 > 由于Windows系统的各种代理工具默认不会让酒馆的流量走代理，以及gemini api对网络环境要求较高，这里先改几个配置，预防网络问题
 
 两种让酒馆走代理的 方法选一个:
-    1. 开启 代理工具的TUN模式（虚拟网卡模式），具体教程可在网上搜索: (你的代理工具名字如clash,v2ray等)+怎么开启tun模式
-    2. 改酒馆配置文件
+    1. （推荐！）开启 代理工具的TUN模式（虚拟网卡模式），具体教程可在网上搜索: (你的代理工具名字如clash,v2ray等)+怎么开启tun模式
+    2. （如果实在不知道怎么开TUN模式）改酒馆配置文件
 - 首先打开酒馆根目录下的config.yaml，搜索'requestProxy',找到如图所示这一段
 - 将enabled后面的false改成true, url改为你的代理工具的代理服务器地址:端口，具体如何查看 每个代理工具都不同，可以自行在网上搜索: (你的代理工具名字如clash,v2ray等)+怎么看端口
 - 例如, v2ray的默认端口是10808，这里url后面就改为 127.0.0.1:10808
