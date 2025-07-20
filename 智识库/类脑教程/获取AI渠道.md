@@ -2,7 +2,7 @@
 title: 获取AI渠道
 description: 
 published: true
-date: 2025-06-17T04:45:44.405Z
+date: 2025-07-20T13:17:36.948Z
 tags: 导航页
 editor: markdown
 dateCreated: 2025-02-15T06:30:38.072Z
@@ -22,7 +22,7 @@ dateCreated: 2025-02-15T06:30:38.072Z
 ---
 <ul class="links-list">
   <li>
-    <a href="/智识库/类脑教程/获取AI渠道/Pro退款流教程" class="is-internal-link is-valid-page">获取ai渠道
+    <a href="/智识库/sandbox/神明，你也不想我刷不了怨念吧/new-page" class="is-internal-link is-valid-page">获取ai渠道
       <em>Pro退款流教程</em>
     </a>
   </li>
