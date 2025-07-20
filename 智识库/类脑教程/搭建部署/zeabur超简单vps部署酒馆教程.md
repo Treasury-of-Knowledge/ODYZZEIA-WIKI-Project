@@ -2,7 +2,7 @@
 title: zeabur超简单vps部署酒馆教程
 description: 80岁老奶奶用脚都能部署
 published: true
-date: 2025-03-30T03:24:01.924Z
+date: 2025-07-20T18:58:38.200Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T03:17:53.087Z
@@ -62,6 +62,7 @@ zeabur其实就是一个部署平台，用来帮助快速把项目部署到服�
 ![zeabur08.png](/all_upload_files_should_in_here/sandbox_area/fangsuqi/zeabur/zeabur08.png)
 ![zeabur09.png](/all_upload_files_should_in_here/sandbox_area/fangsuqi/zeabur/zeabur09.png)
 修改红框里的内容，username后面是用户名，password后面是密码。
+然后记得把listen从false改成true。
 最后，在浏览器的地址栏输入你的域名，部署完成。
 ![zeabur10.png](/all_upload_files_should_in_here/sandbox_area/fangsuqi/zeabur/zeabur10.png)
 ![zeabur11.png](/all_upload_files_should_in_here/sandbox_area/fangsuqi/zeabur/zeabur11.png)
