@@ -2,7 +2,7 @@
 title: 搭建部署
 description: 搭建部署
 published: true
-date: 2025-07-16T05:51:51.197Z
+date: 2025-07-20T05:18:39.739Z
 tags: 搭建部署
 editor: markdown
 dateCreated: 2025-02-11T07:56:24.708Z
@@ -27,7 +27,7 @@ dateCreated: 2025-02-11T07:56:24.708Z
 <ul class="links-list">
   <li>
     <a href="/智识库/sandbox/KKTsN/新宝宝教程-flash" class="is-internal-link is-valid-page">搭建部署
-      <em>新一站式宝宝教程-flash</em>
+      <em>最新一站式宝宝教程，你想要的这里都有</em>
     </a>
   </li>
 <ul class="links-list">
