@@ -2,7 +2,7 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2025-07-20T12:59:32.231Z
+date: 2025-07-21T05:33:59.355Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
@@ -833,7 +833,7 @@ gemini429的原因很多，需要更进一步排查
 # 7 DC社区有关常见问题
 
 - 类脑/旅程在哪进？
-  类脑永久邀请链接: `https://discord.gg/6kdVgVgcRx`
+  类脑永久邀请链接: `https://discord.gg/odysseia`
   旅程永久邀请链接: `https://discord.gg/elysianhorizon`
 
 - 为什么没法在卡区/预设区说话？
