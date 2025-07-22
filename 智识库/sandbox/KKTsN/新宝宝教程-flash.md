@@ -2,7 +2,7 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2025-07-21T05:33:59.355Z
+date: 2025-07-22T04:21:21.793Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
@@ -291,7 +291,7 @@ git clone https://github.com/SillyTavern/SillyTavern -b release
 
 ![iuuiuevi6.png](/all_upload_files_should_in_here/sandbox_area/kktsn/iuuiuevi6.png)
 
-6. 点第五个按钮，也就是人+齿轮⚙️那个，这里要改的东西比较多
+6. 点第五个按钮，也就是人+齿轮⚙️那个，这里要改的东西比较多（红✔的要勾上，绿❎的取消勾选）
 
 ![iuuiuevi7.png](/all_upload_files_should_in_here/sandbox_area/kktsn/iuuiuevi7.png)
 
