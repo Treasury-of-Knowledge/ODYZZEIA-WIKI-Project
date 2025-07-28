@@ -2,19 +2,19 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2025-07-28T02:28:10.887Z
+date: 2025-07-28T05:16:32.545Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
 ---
 
-# 一站式宝宝教程-flash-07-19 
+# 一站式宝宝教程-flash-07-28 
 
 # 0 简介
 
 > 作者: KKTsN(橘狐) （Discord @kk1189_61801）采用 [CC BY-NC-SA 4.0许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
-最后更新日期: 20250719
+最后更新日期: 20250728
 本教程包括的内容:
 
 1. 安装酒馆
@@ -632,6 +632,21 @@ API 即 AI的来源，没有有效的API连接就无法给AI发送消息
   备注：此方法推荐配合预设内的摘要（小总结）功能一起使用，可以非常好的控制住上下文。
 
 
+## 5.4 更新角色卡
+
+> 在角色卡页面的`更多...`中，有一个选项是`替换/更新`，但是这个选项**并不能正确地更新卡的世界书**。
+> 这不是漏洞或者用户操作的问题，酒馆设计如此。
+> 以下是更新角色卡的正确步骤：
+{.is-info}
+
+1. 先点击角色卡界面的'绿色小地球'按钮，跳转到角色卡绑定的世界书。
+![gengxinjueseka1.png](/all_upload_files_should_in_here/sandbox_area/kktsn/gengxinjueseka1.png)
+2. **删除当前的世界书。** 删除成功后，角色卡界面的绿色小地球会变成白色。
+![ggxbjtseka2.png](/all_upload_files_should_in_here/sandbox_area/kktsn/ggxbjtseka2.png)
+3. 然后，点击更多中的替换/更新，选择新版的角色卡文件。此时酒馆会导入新版的世界书。
+![ggxbjtseka3.png](/all_upload_files_should_in_here/sandbox_area/kktsn/ggxbjtseka3.png)
+4. 酒馆应该会自动将新版世界书绑定到角色卡上（表现为小地球变绿）。如果没有变绿，请自行点击白色的小地球按钮，选择刚刚导入的世界书，自行绑定。
+5. （可选）如果角色卡包括局部正则，接下来确认局部正则有没有正确更新。更新角色卡后，局部正则可能会被自动全部关闭，这不是用户操作的问题，而是酒馆的问题。请自行打开（询问角色卡作者应该开哪些）。
 
 
 
