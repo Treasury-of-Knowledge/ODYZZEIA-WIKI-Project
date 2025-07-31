@@ -2,7 +2,7 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2025-07-31T12:24:26.180Z
+date: 2025-07-31T13:48:03.768Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
