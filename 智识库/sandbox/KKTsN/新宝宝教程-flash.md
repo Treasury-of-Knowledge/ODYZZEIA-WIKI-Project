@@ -2,7 +2,7 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2025-07-31T13:48:03.768Z
+date: 2025-08-05T10:22:17.080Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
@@ -351,6 +351,7 @@ API 即 AI的来源，没有有效的API连接就无法给AI发送消息
 第0步: 获取指纹浏览器（以camoufox为例）
 
 1. 访问https://github.com/daijro/camoufox/releases 并下载压缩包，解压
+  - 那堆压缩包里标着`x86_64`的是给64位Windows系统用的，下那个（现在大部分新电脑自带的都是这种系统）
 2. 双击camoufox.exe打开
 
 第1步: 获取谷歌号
