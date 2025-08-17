@@ -2,7 +2,7 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2025-08-05T10:22:17.080Z
+date: 2025-08-17T11:24:27.506Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
@@ -162,9 +162,9 @@ git config --global https.proxy https://127.0.0.1:10808
 
 
 第4步: 在你喜欢的地方**新建一个文件夹**，用来安装酒馆
-注意 **这个文件夹（以及其上级的所有文件夹）名字里都不要有中文或中文标点！**
+注意 **这个文件夹（以及其上级的所有文件夹）名字里都不要有中文或中文标点，也不要有空格！**
 
-错误示例: D:\游戏\我的酒馆
+错误示例: D:\游戏\Silly Tavern (游戏是中文，Silly和Tavern之间有空格)
 正确示例: D:\Games\SillyTavern
 
 如果不会新建文件夹，请用搜索引擎搜一下 或者问ai
