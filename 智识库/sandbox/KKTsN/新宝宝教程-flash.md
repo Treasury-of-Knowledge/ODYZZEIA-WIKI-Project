@@ -2,19 +2,19 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2025-08-17T11:24:27.506Z
+date: 2025-08-21T07:01:50.436Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
 ---
 
-# 一站式宝宝教程-flash-07-28 
+# 一站式宝宝教程-flash-08-21
 
 # 0 简介
 
 > 作者: KKTsN(橘狐) （Discord @kk1189_61801）采用 [CC BY-NC-SA 4.0许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
-最后更新日期: 20250728
+最后更新日期: 20250821
 本教程包括的内容:
 
 1. 安装酒馆
@@ -335,7 +335,8 @@ API 即 AI的来源，没有有效的API连接就无法给AI发送消息
 第5步: 点击连接，下方的红灯变为绿灯'有效'后，点击发送测试消息，若能收到ai回复（酒馆有绿框弹窗）则配置成功，可以在酒馆中使用DeepSeek API了
 
 ![dslmjpiggs.png](/all_upload_files_should_in_here/sandbox_area/kktsn/dslmjpiggs.png)
-（这里DeepSeek模型中 chat是V3, reasoner是R1 R1也就是网页/app中'深度思考'时用的那个模型）
+~~（这里DeepSeek模型中 chat是V3, reasoner是R1 R1也就是网页/app中'深度思考'时用的那个模型）~~
+DeepSeek已于2025年8月21日正式上线了V3.1模型，酒馆中的chat对应3.1的nothinking（即无思维链），reasoner对应启用了思维链的3.1
 
 ### 4.1.2 Gemini
 
@@ -431,7 +432,7 @@ API 即 AI的来源，没有有效的API连接就无法给AI发送消息
 
 额外: Gemini限额
 
-- 基础限额为: 每个项目每天100条，6百万tokens (可以简单理解成字数)，上下文为25万
+- 基础限额为: 每个项目每天50条，3百万tokens (可以简单理解成字数)，上下文为12.5万 (8月20日下调的)
 - 每个账号可以拥有多个项目，项目之间配额独立
 - 也就是说 在一个号上开多个项目即可让单号限额翻好几倍，具体教程可在类脑搜索
 
