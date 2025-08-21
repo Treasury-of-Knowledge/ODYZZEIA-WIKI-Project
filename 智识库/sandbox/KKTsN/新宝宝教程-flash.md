@@ -2,7 +2,7 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2025-08-21T07:01:50.436Z
+date: 2025-08-21T07:19:42.237Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
@@ -327,7 +327,7 @@ API 即 AI的来源，没有有效的API连接就无法给AI发送消息
 {.is-warning}
 
 
-第3步: 点左侧的`用量信息`或`充值`，充一点钱（支持微信支付宝等国内支付渠道）注意无法退款
+第3步: 点左侧的`用量信息`或`充值`，充一点钱（支持微信支付宝等国内支付渠道），用不完也没关系，在账单里面可以退款
 
 ![ds2.png](/all_upload_files_should_in_here/sandbox_area/kktsn/ds2.png)
 第4步: 充值完成以后，刚才创建的key就可以使用了。在酒馆API连接页面（插头）中，聊天补全来源选择DeepSeek，DeepSeek API 密钥填入刚刚创建的key
