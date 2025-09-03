@@ -2,7 +2,7 @@
 title: 随行终端𝐄𝐑𝐀𝐋𝐈𝐍𝐊⟡ 安卓一键部署脚本
 description: あなたのそばにへ
 published: false
-date: 2025-09-03T14:37:18.703Z
+date: 2025-09-03T14:39:03.818Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-03T14:29:59.233Z
@@ -41,16 +41,48 @@ dateCreated: 2025-09-03T14:29:59.233Z
 **网络代理**：支持全局代理的开启/关闭、自定义地址与重置  
 **开机自启**：一键配置 `ERALINK` 脚本自身的开机自启动
 
-### 目录：
-
-P1 如何安装和使用随行终端  
-P2 其他设备通过局域网访问手机随行终端（路由器版）  
-P3 其他设备通过局域网访问手机随行终端（热点版）  
-P4 VSCODE通过局域网SSH链接编辑酒馆文件  
-P5 其他疑难问题解答
-
 ### 示例图：
 
 \[[l临时图床](https://discord.com/channels/1291925535324110879/1385183883540303872/1412131771222327368)\] 
 
 ### 最新版本：2.0.1 \[[更新日志](https://discord.com/channels/1291925535324110879/1385183883540303872/1412128265908256911)\]
+
+# 如何安装随行终端
+## 事前准备
+① 准备好一部安卓手机（鸿蒙和苹果请参考其他教程）
+② （大陆用户）打开手机的流量开关，不使用wifi
+③ （大陆用户）获取一个可以访问外网的梯子安装到手机上并启动，保持梯子连接
+④ 推荐使用Edge浏览器
+## 安装termux
+在安卓手机上下载[termux](https://github.com/termux/termux-app/releases) 并安装
+## 设置termux权限
+权限设置：允许【自启动】、【关联启动】、【后台弹出页面】、【储存权限】、【管理所有文件】
+电量设置：允许**【后台高耗电】**
+禁止【暂停闲置应用的活动】
+ps：如果发现**酒馆无响应，后台也无报错**，且已经设置了以上权限，很可能是你的手机限制后台进程，请尝试挂小窗
+## 部署一键启动脚本
+通过以下方式直接安装
+打开termux后粘贴下方指令，必要时挂梯子
+[手机端复制指令](https://discord.com/channels/1291925535324110879/1385183883540303872/1412800109564924045)
+方式一（无代理 | **推荐**）：
+```apt update && apt install curl unzip git nodejs jq expect -y && pkg upgrade -y && curl -L -o install.sh.tmp -C - https://github.com/404nyaFound/eralink/releases/latest/download/install.sh && mv -f install.sh.tmp install.sh && chmod +x install.sh && ./install.sh || { echo "安装过程中出错"; rm -f install.sh.tmp; exit 1; }}```
+方式二（代理）：
+```apt update && apt install curl unzip git nodejs jq expect -y && pkg upgrade -y && curl -L -o install.sh.tmp -C - https://ghfast.top/https://github.com/404nyaFound/eralink/releases/latest/download/install.sh && mv -f install.sh.tmp install.sh && chmod +x install.sh && ./install.sh || { echo "安装过程中出错"; rm -f install.sh.tmp; exit 1; }```
+安装过程中，**看情况输入y或回车**
+如安装报错，请尝试升级[termux版本](https://github.com/termux/termux-app/releases) ，或[切换镜像源](https://discord.com/channels/1291925535324110879/1385183883540303872/1405756821985165362)
+安装完成后，会显示gui
+可在系统设置中开关脚本自启动
+## 安装酒馆、clewdr或gcli2api
+默认只会显示 **酒馆** 及系统设置，如要安装clewdr或gcli2api，前往 **系统设置-管理模块显示** 中显示对应模块
+在主菜单中，输入数字，选择安装clewdr/gcli2api和酒馆
+安装过程中，看情况输入y和回车
+等待安装完成，出现按任意键返回主菜单提示，即可返回主菜单查看安装状态
+## 使用酒馆、clewdr或gcli2api
+在主菜单，输入数字启动
+（按ESC右边的菜单可以打开侧边栏，NEW SESSION可以创建新进程，通常一个进程放置clewdr，一个进程放置酒馆）
+酒馆启动后会自动调用浏览器打开，也可手动输入链接，通常是127.0.0.1:8000
+## ♢快速跳转 ♢
+[【ClewdR】](https://discord.com/channels/1291925535324110879/1374353271484973066/1374353271484973066) 
+[【gcli2api】](https://discord.com/channels/1134557553011998840/1405524233823457300/1405524233823457300)
+## ♢结语喵♢
+如好用请务必留言点赞，超级想看你们评论喵
