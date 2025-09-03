@@ -2,48 +2,44 @@
 title: 随行终端𝐄𝐑𝐀𝐋𝐈𝐍𝐊⟡ 安卓一键部署脚本
 description: あなたのそばにへ
 published: false
-date: 2025-09-03T14:29:59.233Z
+date: 2025-09-03T14:30:54.639Z
 tags: 
 editor: ckeditor
 dateCreated: 2025-09-03T14:29:59.233Z
 -->
 
-<p>## &nbsp;「[随行终端 ERALINK](https://discord.com/channels/1291925535324110879/1385183883540303872/1385183883540303872)」</p>
-<p>&gt; あなたのそばにへ</p>
-<p>&nbsp;</p>
-<p>`ERALINK`，基于多端合一/极限便携的理念而诞生的**Termux**终端脚本。</p>
-<p>&nbsp;</p>
-<p>它的诞生，源于一个纯粹的愿望：将 [`SillyTavern`](https://github.com/SillyTavern/SillyTavern), [`ClewdR`](https://discord.com/channels/1291925535324110879/1374353271484973066/1374353271484973066) , [`gcli2api`](https://github.com/su-kaka/gcli2api) 等强大工具的繁琐部署与管理流程，化繁为简，随身携带。通过一个可扩展的模块化框架，提供可靠的一键部署体验。</p>
-<p>&nbsp;</p>
-<p>本项目的成长，离不开原作者 `rzline` 、gcli2api作者`su-kaka`等老师的指导，在此致以诚挚的感谢。</p>
-<p>&nbsp;</p>
-<p>## ❖ 特性 (Features)</p>
-<p>**✦ 模块化架构 (Modular Architecture)**</p>
-<p>&nbsp; &nbsp;不再是臃肿的单体脚本，每个核心功能（如 SillyTavern 管理）都是一个独立的、可插拔的模块。这使得添加新功能或进行维护变得前所未有的简单。</p>
-<p>**✦ 动态化菜单 (Dynamic Menu)**</p>
-<p>&nbsp; &nbsp;主菜单界面会根据您启用的模块动态生成，为您呈现一个清爽、个性化的操作面板。您可以随时在设置中“召唤”或“隐藏”特定模块，定制您的专属工作台。</p>
-<p>**✦ 统一化管理 (Unified Management)**</p>
-<p>&nbsp; &nbsp;从依赖安装、版本检查、服务启停，到网络代理、SSH配置乃至最终的软件卸载，所有操作都被收纳于一个统一、可视化的管理界面中，告别散乱的命令。</p>
-<p>**✦ 轻量化体验 (Lightweight Experience)**</p>
-<p>&nbsp; &nbsp;基于纯 Shell 构建，无需繁重的运行时环境。ERALINK 追求以最轻盈的姿态，为您提供最可靠的服务。</p>
-<p>&nbsp;</p>
-<p>## ❖ 功能 (Features)</p>
-<p>**模块安装与更新** 一键安装/更新 `ClewdR`, `SillyTavern`, `gcli2api` 等模块，以及 `ERALINK` 框架自身</p>
-<p>**服务状态监控** &nbsp; 在主菜单实时展示所有模块的运行状态 (`[运行中]` 或 `[已停止]`)，让您对系统状况一目了然</p>
-<p>**版本智能检查** &nbsp; 启动时异步检查各模块与框架的最新版本，并与本地版本对比展示。支持缓存机制与手动强制刷新</p>
-<p>**模块显示管理**：在设置中自由选择要在主菜单显示的模块</p>
-<p>**安全卸载**：提供完整的卸载管理器，可选择性移除任一模块、依赖、配置文件乃至 `ERALINK` 自身</p>
-<p>**调试模式**：为开发者提供详细的后台日志输出</p>
-<p>**SSH 管理**：安装、启停 `OpenSSH` 服务，并配置开机自启</p>
-<p>**网络代理**：支持全局代理的开启/关闭、自定义地址与重置</p>
-<p>**开机自启**：一键配置 `ERALINK` 脚本自身的开机自启动</p>
-<p>&nbsp;</p>
-<p>### 目录：</p>
-<p>P1 &nbsp; &nbsp; 如何安装和使用随行终端 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<p>P2 &nbsp; &nbsp;其他设备通过局域网访问手机随行终端（路由器版） &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<p>P3 &nbsp; &nbsp;其他设备通过局域网访问手机随行终端（热点版） &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<p>P4 &nbsp; &nbsp;VSCODE通过局域网SSH链接编辑酒馆文件 &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<p>P5 &nbsp; &nbsp;其他疑难问题解答</p>
-<p>### 示例图：</p>
-<p>[[l临时图床](https://discord.com/channels/1291925535324110879/1385183883540303872/1412131771222327368)] (猫猫爆炸了)</p>
-<p>### 最新版本：2.0.1 [[更新日志](https://discord.com/channels/1291925535324110879/1385183883540303872/1412128265908256911)]</p>
+<h2 class="toc-header" id="随行终端-eralink"> 「<a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1385183883540303872/1385183883540303872">随行终端 ERALINK</a>」</h2>
+<blockquote>
+<p>あなたのそばにへ</p>
+</blockquote>
+<p><code>ERALINK</code>，基于多端合一/极限便携的理念而诞生的<strong>Termux</strong>终端脚本。</p>
+<p>它的诞生，源于一个纯粹的愿望：将 <a class="is-external-link" href="https://github.com/SillyTavern/SillyTavern"><code>SillyTavern</code></a>, <a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1374353271484973066/1374353271484973066"><code>ClewdR</code></a> , <a class="is-external-link" href="https://github.com/su-kaka/gcli2api"><code>gcli2api</code></a> 等强大工具的繁琐部署与管理流程，化繁为简，随身携带。通过一个可扩展的模块化框架，提供可靠的一键部署体验。</p>
+<p>本项目的成长，离不开原作者 <code>rzline</code> 、gcli2api作者<code>su-kaka</code>等老师的指导，在此致以诚挚的感谢。</p>
+<h2 class="toc-header" id="特性-features"> ❖ 特性 (Features)</h2>
+<p><strong>✦ 模块化架构 (Modular Architecture)</strong><br>
+不再是臃肿的单体脚本，每个核心功能（如 SillyTavern 管理）都是一个独立的、可插拔的模块。这使得添加新功能或进行维护变得前所未有的简单。<br>
+<strong>✦ 动态化菜单 (Dynamic Menu)</strong><br>
+主菜单界面会根据您启用的模块动态生成，为您呈现一个清爽、个性化的操作面板。您可以随时在设置中“召唤”或“隐藏”特定模块，定制您的专属工作台。<br>
+<strong>✦ 统一化管理 (Unified Management)</strong><br>
+从依赖安装、版本检查、服务启停，到网络代理、SSH配置乃至最终的软件卸载，所有操作都被收纳于一个统一、可视化的管理界面中，告别散乱的命令。<br>
+<strong>✦ 轻量化体验 (Lightweight Experience)</strong><br>
+基于纯 Shell 构建，无需繁重的运行时环境。ERALINK 追求以最轻盈的姿态，为您提供最可靠的服务。</p>
+<h2 class="toc-header" id="功能-features"> ❖ 功能 (Features)</h2>
+<p><strong>模块安装与更新</strong> 一键安装/更新 <code>ClewdR</code>, <code>SillyTavern</code>, <code>gcli2api</code> 等模块，以及 <code>ERALINK</code> 框架自身<br>
+<strong>服务状态监控</strong>   在主菜单实时展示所有模块的运行状态 (<code>[运行中]</code> 或 <code>[已停止]</code>)，让您对系统状况一目了然<br>
+<strong>版本智能检查</strong>   启动时异步检查各模块与框架的最新版本，并与本地版本对比展示。支持缓存机制与手动强制刷新<br>
+<strong>模块显示管理</strong>：在设置中自由选择要在主菜单显示的模块<br>
+<strong>安全卸载</strong>：提供完整的卸载管理器，可选择性移除任一模块、依赖、配置文件乃至 <code>ERALINK</code> 自身<br>
+<strong>调试模式</strong>：为开发者提供详细的后台日志输出<br>
+<strong>SSH 管理</strong>：安装、启停 <code>OpenSSH</code> 服务，并配置开机自启<br>
+<strong>网络代理</strong>：支持全局代理的开启/关闭、自定义地址与重置<br>
+<strong>开机自启</strong>：一键配置 <code>ERALINK</code> 脚本自身的开机自启动</p>
+<h3 class="toc-header" id="目录"> 目录：</h3>
+<p>P1     如何安装和使用随行终端<br>
+P2    其他设备通过局域网访问手机随行终端（路由器版）<br>
+P3    其他设备通过局域网访问手机随行终端（热点版）<br>
+P4    VSCODE通过局域网SSH链接编辑酒馆文件<br>
+P5    其他疑难问题解答</p>
+<h3 class="toc-header" id="示例图"> 示例图：</h3>
+<p>[<a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1385183883540303872/1412131771222327368">l临时图床</a>] (猫猫爆炸了)</p>
+<h3 class="toc-header" id="最新版本201-更新日志"> 最新版本：2.0.1 [<a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1385183883540303872/1412128265908256911">更新日志</a>]</h3>
