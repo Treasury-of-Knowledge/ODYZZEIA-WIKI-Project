@@ -2,25 +2,77 @@
 title: 随行终端𝐄𝐑𝐀𝐋𝐈𝐍𝐊⟡ 安卓一键部署脚本
 description: あなたのそばにへ
 published: false
-date: 2025-09-03T14:37:06.675Z
+date: 2025-09-03T14:39:28.405Z
 tags: 
 editor: ckeditor
 dateCreated: 2025-09-03T14:29:59.233Z
 -->
 
-<h2>「<a href="https://discord.com/channels/1291925535324110879/1385183883540303872/1385183883540303872">随行终端 ERALINK</a>」</h2>
+<h2 class="toc-header" id="随行终端-eralink"> 「<a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1385183883540303872/1385183883540303872">随行终端 ERALINK</a>」</h2>
 <blockquote>
-  <p>あなたのそばにへ</p>
+<p>あなたのそばにへ</p>
 </blockquote>
 <p><code>ERALINK</code>，基于多端合一/极限便携的理念而诞生的<strong>Termux</strong>终端脚本。</p>
-<p>它的诞生，源于一个纯粹的愿望：将 <a href="https://github.com/SillyTavern/SillyTavern"><code>SillyTavern</code></a>, <a href="https://discord.com/channels/1291925535324110879/1374353271484973066/1374353271484973066"><code>ClewdR</code></a> , <a href="https://github.com/su-kaka/gcli2api"><code>gcli2api</code></a> 等强大工具的繁琐部署与管理流程，化繁为简，随身携带。通过一个可扩展的模块化框架，提供可靠的一键部署体验。</p>
+<p>它的诞生，源于一个纯粹的愿望：将 <a class="is-external-link" href="https://github.com/SillyTavern/SillyTavern"><code>SillyTavern</code></a>, <a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1374353271484973066/1374353271484973066"><code>ClewdR</code></a> , <a class="is-external-link" href="https://github.com/su-kaka/gcli2api"><code>gcli2api</code></a> 等强大工具的繁琐部署与管理流程，化繁为简，随身携带。通过一个可扩展的模块化框架，提供可靠的一键部署体验。</p>
 <p>本项目基于rezline的一键部署脚本分支，项目的成长，离不开原作者 <code>rzline</code> 、gcli2api作者<code>su-kaka</code>等老师的指导，在此致以诚挚的感谢。</p>
-<h2>❖ 特性 (Features)</h2>
-<p><strong>✦ 模块化架构 (Modular Architecture)</strong><br>不再是臃肿的单体脚本，每个核心功能（如 SillyTavern 管理）都是一个独立的、可插拔的模块。这使得添加新功能或进行维护变得前所未有的简单。<br><strong>✦ 动态化菜单 (Dynamic Menu)</strong><br>主菜单界面会根据您启用的模块动态生成，为您呈现一个清爽、个性化的操作面板。您可以随时在设置中“召唤”或“隐藏”特定模块，定制您的专属工作台。<br><strong>✦ 统一化管理 (Unified Management)</strong><br>从依赖安装、版本检查、服务启停，到网络代理、SSH配置乃至最终的软件卸载，所有操作都被收纳于一个统一、可视化的管理界面中，告别散乱的命令。<br><strong>✦ 轻量化体验 (Lightweight Experience)</strong><br>基于纯 Shell 构建，无需繁重的运行时环境。ERALINK 追求以最轻盈的姿态，为您提供最可靠的服务。</p>
-<h2>❖ 功能 (Features)</h2>
-<p><strong>模块安装与更新</strong> 一键安装/更新 <code>ClewdR</code>, <code>SillyTavern</code>, <code>gcli2api</code> 等模块，以及 <code>ERALINK</code> 框架自身<br><strong>服务状态监控</strong> 在主菜单实时展示所有模块的运行状态 (<code>[运行中]</code> 或 <code>[已停止]</code>)，让您对系统状况一目了然<br><strong>版本智能检查</strong> 启动时异步检查各模块与框架的最新版本，并与本地版本对比展示。支持缓存机制与手动强制刷新<br><strong>模块显示管理</strong>：在设置中自由选择要在主菜单显示的模块<br><strong>安全卸载</strong>：提供完整的卸载管理器，可选择性移除任一模块、依赖、配置文件乃至 <code>ERALINK</code> 自身<br><strong>调试模式</strong>：为开发者提供详细的后台日志输出<br><strong>SSH 管理</strong>：安装、启停 <code>OpenSSH</code> 服务，并配置开机自启<br><strong>网络代理</strong>：支持全局代理的开启/关闭、自定义地址与重置<br><strong>开机自启</strong>：一键配置 <code>ERALINK</code> 脚本自身的开机自启动</p>
-<h3>目录：</h3>
-<p>P1 如何安装和使用随行终端<br>P2 其他设备通过局域网访问手机随行终端（路由器版）<br>P3 其他设备通过局域网访问手机随行终端（热点版）<br>P4 VSCODE通过局域网SSH链接编辑酒馆文件<br>P5 其他疑难问题解答</p>
-<h3>示例图：</h3>
-<p>[<a href="https://discord.com/channels/1291925535324110879/1385183883540303872/1412131771222327368">l临时图床</a>]&nbsp;</p>
-<h3>最新版本：2.0.1 [<a href="https://discord.com/channels/1291925535324110879/1385183883540303872/1412128265908256911">更新日志</a>]<br>&nbsp;</h3>
+<h2 class="toc-header" id="特性-features"> ❖ 特性 (Features)</h2>
+<p><strong>✦ 模块化架构 (Modular Architecture)</strong><br>
+不再是臃肿的单体脚本，每个核心功能（如 SillyTavern 管理）都是一个独立的、可插拔的模块。这使得添加新功能或进行维护变得前所未有的简单。<br>
+<strong>✦ 动态化菜单 (Dynamic Menu)</strong><br>
+主菜单界面会根据您启用的模块动态生成，为您呈现一个清爽、个性化的操作面板。您可以随时在设置中“召唤”或“隐藏”特定模块，定制您的专属工作台。<br>
+<strong>✦ 统一化管理 (Unified Management)</strong><br>
+从依赖安装、版本检查、服务启停，到网络代理、SSH配置乃至最终的软件卸载，所有操作都被收纳于一个统一、可视化的管理界面中，告别散乱的命令。<br>
+<strong>✦ 轻量化体验 (Lightweight Experience)</strong><br>
+基于纯 Shell 构建，无需繁重的运行时环境。ERALINK 追求以最轻盈的姿态，为您提供最可靠的服务。</p>
+<h2 class="toc-header" id="功能-features"> ❖ 功能 (Features)</h2>
+<p><strong>模块安装与更新</strong> 一键安装/更新 <code>ClewdR</code>, <code>SillyTavern</code>, <code>gcli2api</code> 等模块，以及 <code>ERALINK</code> 框架自身<br>
+<strong>服务状态监控</strong> 在主菜单实时展示所有模块的运行状态 (<code>[运行中]</code> 或 <code>[已停止]</code>)，让您对系统状况一目了然<br>
+<strong>版本智能检查</strong> 启动时异步检查各模块与框架的最新版本，并与本地版本对比展示。支持缓存机制与手动强制刷新<br>
+<strong>模块显示管理</strong>：在设置中自由选择要在主菜单显示的模块<br>
+<strong>安全卸载</strong>：提供完整的卸载管理器，可选择性移除任一模块、依赖、配置文件乃至 <code>ERALINK</code> 自身<br>
+<strong>调试模式</strong>：为开发者提供详细的后台日志输出<br>
+<strong>SSH 管理</strong>：安装、启停 <code>OpenSSH</code> 服务，并配置开机自启<br>
+<strong>网络代理</strong>：支持全局代理的开启/关闭、自定义地址与重置<br>
+<strong>开机自启</strong>：一键配置 <code>ERALINK</code> 脚本自身的开机自启动</p>
+<h3 class="toc-header" id="示例图"> 示例图：</h3>
+<p>[<a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1385183883540303872/1412131771222327368">l临时图床</a>]</p>
+<h3 class="toc-header" id="最新版本201-更新日志"> 最新版本：2.0.1 [<a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1385183883540303872/1412128265908256911">更新日志</a>]</h3>
+<h1 class="toc-header" id="如何安装随行终端"> 如何安装随行终端</h1>
+<h2 class="toc-header" id="事前准备"> 事前准备</h2>
+<p>① 准备好一部安卓手机（鸿蒙和苹果请参考其他教程）<br>
+② （大陆用户）打开手机的流量开关，不使用wifi<br>
+③ （大陆用户）获取一个可以访问外网的梯子安装到手机上并启动，保持梯子连接<br>
+④ 推荐使用Edge浏览器</p>
+<h2 class="toc-header" id="安装termux"> 安装termux</h2>
+<p>在安卓手机上下载<a class="is-external-link" href="https://github.com/termux/termux-app/releases">termux</a> 并安装</p>
+<h2 class="toc-header" id="设置termux权限"> 设置termux权限</h2>
+<p>权限设置：允许【自启动】、【关联启动】、【后台弹出页面】、【储存权限】、【管理所有文件】<br>
+电量设置：允许**【后台高耗电】**<br>
+禁止【暂停闲置应用的活动】<br>
+ps：如果发现<strong>酒馆无响应，后台也无报错</strong>，且已经设置了以上权限，很可能是你的手机限制后台进程，请尝试挂小窗</p>
+<h2 class="toc-header" id="部署一键启动脚本"> 部署一键启动脚本</h2>
+<p>通过以下方式直接安装<br>
+打开termux后粘贴下方指令，必要时挂梯子<br>
+<a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1385183883540303872/1412800109564924045">手机端复制指令</a><br>
+方式一（无代理 | <strong>推荐</strong>）：<br>
+<code>apt update &amp;&amp; apt install curl unzip git nodejs jq expect -y &amp;&amp; pkg upgrade -y &amp;&amp; curl -L -o install.sh.tmp -C - https://github.com/404nyaFound/eralink/releases/latest/download/install.sh &amp;&amp; mv -f install.sh.tmp install.sh &amp;&amp; chmod +x install.sh &amp;&amp; ./install.sh || { echo "安装过程中出错"; rm -f install.sh.tmp; exit 1; }}</code><br>
+方式二（代理）：<br>
+<code>apt update &amp;&amp; apt install curl unzip git nodejs jq expect -y &amp;&amp; pkg upgrade -y &amp;&amp; curl -L -o install.sh.tmp -C - https://ghfast.top/https://github.com/404nyaFound/eralink/releases/latest/download/install.sh &amp;&amp; mv -f install.sh.tmp install.sh &amp;&amp; chmod +x install.sh &amp;&amp; ./install.sh || { echo "安装过程中出错"; rm -f install.sh.tmp; exit 1; }</code><br>
+安装过程中，<strong>看情况输入y或回车</strong><br>
+如安装报错，请尝试升级<a class="is-external-link" href="https://github.com/termux/termux-app/releases">termux版本</a> ，或<a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1385183883540303872/1405756821985165362">切换镜像源</a><br>
+安装完成后，会显示gui<br>
+可在系统设置中开关脚本自启动</p>
+<h2 class="toc-header" id="安装酒馆-clewdr或gcli2api"> 安装酒馆、clewdr或gcli2api</h2>
+<p>默认只会显示 <strong>酒馆</strong> 及系统设置，如要安装clewdr或gcli2api，前往 <strong>系统设置-管理模块显示</strong> 中显示对应模块<br>
+在主菜单中，输入数字，选择安装clewdr/gcli2api和酒馆<br>
+安装过程中，看情况输入y和回车<br>
+等待安装完成，出现按任意键返回主菜单提示，即可返回主菜单查看安装状态</p>
+<h2 class="toc-header" id="使用酒馆-clewdr或gcli2api"> 使用酒馆、clewdr或gcli2api</h2>
+<p>在主菜单，输入数字启动<br>
+（按ESC右边的菜单可以打开侧边栏，NEW SESSION可以创建新进程，通常一个进程放置clewdr，一个进程放置酒馆）<br>
+酒馆启动后会自动调用浏览器打开，也可手动输入链接，通常是127.0.0.1:8000</p>
+<h2 class="toc-header" id="快速跳转"> ♢快速跳转 ♢</h2>
+<p><a class="is-external-link" href="https://discord.com/channels/1291925535324110879/1374353271484973066/1374353271484973066">【ClewdR】</a><br>
+<a class="is-external-link" href="https://discord.com/channels/1134557553011998840/1405524233823457300/1405524233823457300">【gcli2api】</a></p>
+<h2 class="toc-header" id="结语喵"> ♢结语喵♢</h2>
+<p>如好用请务必留言点赞，超级想看你们评论喵</p>
