@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2025-05-22T08:08:08.018Z
+date: 2025-12-08T06:49:40.292Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-08T11:27:47.400Z
@@ -45,12 +45,27 @@ dateCreated: 2025-02-08T11:27:47.400Z
 <div align="center">
  
 ---
+  
+ <blockquote class="is-danger">
+  
+  <b>自“旅程类脑分裂事件”以来，智识库始终奉行中立原则，从未对类脑或旅程的任何一方给予偏袒，而是选择信任并接纳 AIRP 社区的每一位成员。也正因这一立场，在过去的半年中，旅程的管理员亦持续在智识库的管理团队中任职。
 
-<blockquote class="is-danger">
+然而，近期旅程内部管理层所披露的聊天记录显示，部分旅程管理组成员在讨论中流露出对社区劳动成果进行破坏或指责的意图。对此，我们深感遗憾与失望。
+</b>
+	</blockquote> 
+
+## 相关证据披露
+### 证据1
+ ![image2.png](/all_upload_files_should_in_here/index/image2.png) 
+### 证据2
+ ![image.png](/all_upload_files_should_in_here/index/image.png)
   
-  <b>智识库无意，也不会参与类脑/旅程的争端之中。目前，智识库面向所有热衷于 AIRP 社区的、善意的创作者接纳投稿</b>
+---
+
+ <blockquote class="is-success">
+  
+  <b>智识库面向所有热衷于 AIRP 社区的、善意的创作者接纳投稿</b>
 	</blockquote>
-  
 <blockquote class="is-info">
   
   <b>由于智识库流量过大，目前仅创作者可实时看到内容变更，游客需等待缓存过期(约2小时)后才可获得页面最新内容</b>
