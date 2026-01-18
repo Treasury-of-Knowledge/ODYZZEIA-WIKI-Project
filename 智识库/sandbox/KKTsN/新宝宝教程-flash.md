@@ -2,7 +2,7 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2025-12-08T09:53:52.889Z
+date: 2026-01-18T13:21:44.662Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
@@ -209,7 +209,7 @@ dateCreated: 2025-07-16T04:21:19.440Z
 
    一键脚本将酒馆安装，更新等多个功能集成到同一个脚本里，只需要输入数字选项就能方便地使用
 
-   请参考[这里](https://wiki.类脑.org/%E6%99%BA%E8%AF%86%E5%BA%93/sandbox/%E6%97%A0%E5%90%8D%E6%B0%8F/%E5%AE%89%E5%8D%93%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B)的教程 
+   请参考[这里](https://wiki.类脑.org/%E6%99%BA%E8%AF%86%E5%BA%93/sandbox/%E6%97%A0%E5%90%8D%E6%B0%8F/%E5%AE%89%E5%8D%93%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B)的教程 （来自类脑@wumingshi08808）
 
    ⬆️请仔细，仔细看这里的教程，不要漏掉任何一部分操作
 
