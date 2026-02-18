@@ -2,7 +2,7 @@
 title: zeabur超简单vps部署酒馆教程
 description: 80岁老奶奶用脚都能部署
 published: true
-date: 2025-07-20T18:58:38.200Z
+date: 2026-02-18T09:02:28.243Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-30T03:17:53.087Z
@@ -35,7 +35,7 @@ zeabur其实就是一个部署平台，用来帮助快速把项目部署到服�
 当然了，没什么好说的，不去[官网](https://zeabur.com/zh-CN)注册肯定没法用他家的服务。
 ![zeabur01.png](/all_upload_files_should_in_here/sandbox_area/fangsuqi/zeabur/zeabur01.png)
 你可以通过邮箱或者github授权来注册。
-> 上面的链接是官网链接，如果你**愿意支持作者**且**有在其上购买vps的需求**，可以使用[这个邀请链接](https://zeabur.com/referral?referralCode=fangsuqi)来注册，从而在购买时使双方获得邀请奖励。（如果没有购买意愿则不用）
+> 上面的链接是官网链接，请务必使用官网链接购买
 {.is-info}
 
 ## 2.添加vps
