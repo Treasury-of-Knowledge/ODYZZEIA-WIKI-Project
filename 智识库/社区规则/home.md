@@ -2,14 +2,14 @@
 title: 社区规则
 description: 
 published: true
-date: 2026-02-18T09:33:53.413Z
+date: 2026-02-18T09:35:14.884Z
 tags: 社区规则, 议会
 editor: markdown
 dateCreated: 2025-02-11T16:43:04.222Z
 ---
 
 
-# 社区规则 (现行)
+# 社区规则
 
 
 > **当前日期：2026/02/18**
@@ -19,7 +19,7 @@ dateCreated: 2025-02-11T16:43:04.222Z
 <ul class="links-list">
   <li>
     <a href="/智识库/sandbox/1009/rule" class="is-internal-link is-valid-page">
-      <em>新版社区约法 (2026版)</em>
+      <em>新版社区约法 (2026版) 作者：阿敏</em>
     </a>
   </li>
 </ul>
@@ -27,7 +27,7 @@ dateCreated: 2025-02-11T16:43:04.222Z
 --- 
 <br>
 
-# 历史归档 (Archive)
+# 归档區 
 
 > **自 2025/05/20 后，受 5·20 事件影响，以下旧版文档已处于失效状态，仅作历史留存。**
 {.is-danger}
