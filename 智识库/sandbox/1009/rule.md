@@ -2,7 +2,7 @@
 title: 类脑RULE
 description: 
 published: true
-date: 2026-03-02T18:27:03.515Z
+date: 2026-03-02T18:27:40.303Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T09:13:35.817Z
