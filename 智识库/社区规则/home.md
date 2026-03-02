@@ -2,7 +2,7 @@
 title: 社区规则
 description: 
 published: true
-date: 2026-03-02T18:28:29.522Z
+date: 2026-03-02T18:36:32.625Z
 tags: 社区规则, 议会
 editor: markdown
 dateCreated: 2025-02-11T16:43:04.222Z
@@ -20,6 +20,11 @@ dateCreated: 2025-02-11T16:43:04.222Z
   <li>
     <a href="/智识库/sandbox/1009/rule" class="is-internal-link is-valid-page">
       <em>新版社区约法 (2026版) 作者：阿敏</em>
+    </a>
+  </li>
+   <li>
+    <a href="/智识库/sandbox/1009/rule" class="is-internal-link is-valid-page">
+      <em>新版类脑提案记录台账 作者：TOLTI</em>
     </a>
   </li>
 </ul>
