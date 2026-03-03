@@ -2,7 +2,7 @@
 title: 1Panel部署云酒馆教程
 description: 
 published: false
-date: 2026-03-03T14:24:30.721Z
+date: 2026-03-03T14:31:05.813Z
 tags: 教程, 部署, 云酒馆
 editor: markdown
 dateCreated: 2026-03-03T13:56:39.160Z
@@ -86,7 +86,7 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 ![1panel_install_4.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/1panel_install_4.png)
 
 随后访问链接 比如我的是 http://192.168.233.128:35349/2e6133c3f2
-我是虚拟机演示 所以你们访问的时候访问外部地址
+我是虚拟机演示 所以你们访问的时候使用访问外部地址
 到这个页面 就输入上面的面板用户 和面板密码 登陆即可
 ![login_(1).png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/login_(1).png)
 
@@ -155,6 +155,12 @@ docker compose up -d
 如果需要看后台 点击容器的日志即可查看
 ![1panel_installation22.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation22.png)
 
+## 备份数据同步教程
+按照操作 找到data文件夹
+![1panel_installation24.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation24.png)
+![1panel_installation25.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation25.png)
+在更多找到压缩 随后下载即可 反之 备份的data覆盖现在的data即可 
+操作完备份或其他操作以后 跟上面一样 记得重启容器
 
 
 进阶操作:
