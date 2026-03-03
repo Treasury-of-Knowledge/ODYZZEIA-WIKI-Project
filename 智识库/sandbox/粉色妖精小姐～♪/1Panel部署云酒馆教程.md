@@ -2,7 +2,7 @@
 title: 1Panel部署云酒馆教程
 description: 
 published: false
-date: 2026-03-03T14:37:19.121Z
+date: 2026-03-03T14:39:38.056Z
 tags: 教程, 部署, 云酒馆
 editor: markdown
 dateCreated: 2026-03-03T13:56:39.160Z
@@ -63,7 +63,7 @@ sudo -i
 如果你本来就是root 则不需要
 ![sudo_(1).png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/sudo_(1).png)
 然后输入密码 
-请注意 如果你在命令行输入密码 你是看不到密码的 这并不是bug 继续完整输入密码即可
+# 请注意 如果你在命令行输入密码 你是看不到密码的 这并不是bug 继续完整输入密码即可
 
 回车以后你就会发现变成了root
 ![root_(1).png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/root_(1).png)
