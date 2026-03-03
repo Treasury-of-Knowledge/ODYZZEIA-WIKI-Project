@@ -2,7 +2,7 @@
 title: 智识库协作
 description: 每一次编辑都有意义
 published: true
-date: 2025-02-14T17:17:56.806Z
+date: 2026-03-03T14:59:12.845Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-14T09:51:10.489Z
@@ -24,11 +24,6 @@ dateCreated: 2025-02-14T09:51:10.489Z
   <li>
     <a href="/智识库/智识库协作/智识库文章写作-基础指南" class="is-internal-link is-valid-page">写作
       <em>智识库文章编辑基础指南</em>
-    </a>
-  </li>
-  <li>
-    <a href="" class="is-internal-link is-valid-page">待编辑
-      <em>待编辑</em>
     </a>
   </li>
 </ul>
