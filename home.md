@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2026-03-03T13:11:16.773Z
+date: 2026-03-03T13:12:55.193Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-08T11:27:47.400Z
@@ -54,7 +54,7 @@ dateCreated: 2025-02-08T11:27:47.400Z
 
 相信本智识库的知识一定会对你有所帮助，事不宜迟，我们出发吧！
 
-如果您在使用过程中有任何反馈或建议，请[联系类脑管理组](https://ptb.discord.com/channels/1134557553011998840/1284458379615666269)。
+如果在使用过程中有任何反馈或建议，请[联系类脑管理组](https://ptb.discord.com/channels/1134557553011998840/1284458379615666269)。
 
 ---
 
