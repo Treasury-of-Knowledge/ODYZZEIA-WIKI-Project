@@ -2,7 +2,7 @@
 title: 搭建部署
 description: 搭建部署
 published: true
-date: 2025-07-20T05:18:39.739Z
+date: 2026-03-03T14:48:09.724Z
 tags: 搭建部署
 editor: markdown
 dateCreated: 2025-02-11T07:56:24.708Z
@@ -69,6 +69,13 @@ dateCreated: 2025-02-11T07:56:24.708Z
   <li>
     <a href="/智识库/sandbox/无名氏/安卓一键部署教程" class="is-internal-link is-valid-page">搭建部署
       <em>安卓一键部署教程</em>
+    </a>
+  </li>
+</ul>
+<ul class="links-list">
+  <li>
+    <a href="/智识库/sandbox/粉色妖精小姐～♪/1Panel部署云酒馆教程" class="is-internal-link is-valid-page">搭建部署
+      <em>1panel部署云酒馆教程</em>
     </a>
   </li>
 </ul>
