@@ -2,7 +2,7 @@
 title: 1Panel部署云酒馆教程
 description: 
 published: false
-date: 2026-03-03T14:39:38.056Z
+date: 2026-03-03T14:43:28.519Z
 tags: 教程, 部署, 云酒馆
 editor: markdown
 dateCreated: 2026-03-03T13:56:39.160Z
@@ -82,7 +82,7 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 需要注意的有些服务器 可能需要到购买服务器的的官网后台去开放端口 请询问客服
 
 出现下面这个页面就是成功了
-然后请复制好这些信息 以后访问需要
+# 然后请复制好这些信息 以后访问需要
 ![1panel_install_4.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/1panel_install_4.png)
 
 随后访问链接 比如我的是 http://192.168.233.128:35349/2e6133c3f2
@@ -138,7 +138,7 @@ docker compose up -d
 ![1panel_installation16.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation16.png)
 ![1panel_installation17.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation17.png)
 ![1panel_installation18.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation18.png)
-**注意 用户名和密码不要设置太过简单**
+# 注意 用户名和密码不要设置太过简单
 设置完成后保存
 
 保存关闭文件以后选择容器
@@ -155,7 +155,7 @@ docker compose up -d
 如果需要看后台 点击容器的日志即可查看
 ![1panel_installation22.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation22.png)
 
-## 备份数据同步教程
+# 备份数据同步教程
 按照操作 找到data文件夹
 ![1panel_installation24.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation24.png)
 ![1panel_installation25.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation25.png)
