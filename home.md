@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2026-03-03T10:16:48.536Z
+date: 2026-03-03T10:23:13.674Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-08T11:27:47.400Z
@@ -46,7 +46,9 @@ dateCreated: 2025-02-08T11:27:47.400Z
 ## 引言
 欢迎来到***类脑智识库 · ΓΝΩΣΗ WIKI***，本智识库是类脑ΟΔΥΣΣΕΙΑ 【中文 SillyTavern(傻子酒馆) 社区】 的周边项目，目前**仅供类脑ΟΔΥΣΣΕΙΑ社区内部成员使用**。
 
+> 如果你目前只能看到本页面、无法访问其他内容，说明你尚未成为类脑ΟΔΥΣΣΕΙΑ社区成员。请先加入类脑ΟΔΥΣΣΕΙΑ，选择Discord登陆后即可浏览完整智识库。
 类脑ΟΔΥΣΣΕΙΑ永久邀请链接：https://discord.gg/odysseia
+{.is-warning}
 
 在这里，你可以自由地分享、讨论关于 SillyTavern 的一切相关内容，但同时，为了确保每个成员都能有一个健康良好的交流环境，你也要自觉遵守和维护社区的规章制度。
 
@@ -54,15 +56,11 @@ dateCreated: 2025-02-08T11:27:47.400Z
 
 ---
 
-> 横幅视频通过 AI 技术生成，分别采用了文生图，图片生成视频、视频超分放大三项 AI 技术
-{.is-info}
-
-
----
-
 ![sillytavern-banner-zipped.png](/all_upload_files_should_in_here/index/sillytavern-banner-zipped.png)
 
 图片鸣谢：@染月青花
 
----
+> 横幅视频通过 AI 技术生成，分别采用了文生图，图片生成视频、视频超分放大三项 AI 技术
+{.is-info}
 
+---
