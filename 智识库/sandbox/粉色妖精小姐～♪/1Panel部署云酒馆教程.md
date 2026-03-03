@@ -2,14 +2,15 @@
 title: 1Panel部署云酒馆教程
 description: 
 published: false
-date: 2026-03-03T13:56:39.160Z
+date: 2026-03-03T14:24:30.721Z
 tags: 教程, 部署, 云酒馆
 editor: markdown
 dateCreated: 2026-03-03T13:56:39.160Z
 ---
 
 # 1Panel部署云酒馆教程
-> 教程作者：粉色妖精小姐～♪
+> 教程作者：粉色妖精小姐～♪ 原贴[云酒馆部署教程1panel面板](https://discord.com/channels/1134557553011998840/1432990231694671893)
+
 
 ## 前期准备
 1.准备一台服务器
@@ -90,4 +91,71 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 ![login_(1).png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/login_(1).png)
 
 
-登陆以后进入到页面
+登陆以后进入到以下页面 随后点击左侧导航栏的终端
+![1panel_installation1.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation1.png)
+
+在终端输入以下命令后回车执行
+![1panel_installation2.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation2.png)
+
+
+执行以后我们点击系统后选择文件
+![1panel_installation3.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation3.png)
+
+点击这个位置来到主页面
+![1panel_installation4.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation4.png)
+
+## 下面跟着依次进行点击即可
+![1panel_installation5.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation5.png)
+![1panel_installation6.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation6.png)
+![1panel_installation7.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation7.png)
+![image_(1).png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/image_(1).png)
+
+打开这个文件以后按照需求看看是否需要修改
+![1panel_installation9.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation9.png)
+改完以后记得保存
+
+随后回到终端 新建一个终端
+![1panel_installation10.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation10.png)
+
+输入以下命令后回车
+![1panel_installation11.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation11.png)
+随后输入再继续输入
+```
+docker compose up -d
+```
+回车运行
+
+出现以下提示说明安装成功了
+![1panel_installation12.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation12.png)
+
+我们还需要在进行一些设置 再次回到文件
+![1panel_installation13.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation13.png)
+依次进行选择打开文件
+![1panel_installation14.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation14.png)
+![1panel_installation15.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation15.png)
+
+打开文件以后按照下面的操作进行修改
+![1panel_installation16.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation16.png)
+![1panel_installation17.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation17.png)
+![1panel_installation18.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation18.png)
+## 注意 用户名和密码不要设置太过简单
+设置完成后保存
+
+保存关闭文件以后选择容器
+![1panel_installation19.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation19.png)
+
+依次进行选择重启一下容器
+![1panel_installation20.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation20.png)
+![1panel_installation21.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation21.png)
+
+
+重启以后在网页输入你的服务器ip:8000 即可访问酒馆
+![1panel_installation23.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation23.png)
+
+如果需要看后台 点击容器的日志即可查看
+![1panel_installation22.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation22.png)
+
+
+
+进阶操作:
+	让酒馆变得更安全可以给酒馆套域名 前提是有域名 详细可以看[1panel酒馆套域名教程](https://discord.com/channels/1134557553011998840/1432990231694671893/1447335715338977423)
