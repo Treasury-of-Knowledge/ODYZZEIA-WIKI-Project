@@ -2,7 +2,7 @@
 title: 1Panel部署云酒馆教程
 description: 
 published: true
-date: 2026-03-03T14:44:17.550Z
+date: 2026-03-03T18:23:53.793Z
 tags: 教程, 搭建部署, 部署, 云酒馆
 editor: markdown
 dateCreated: 2026-03-03T13:56:39.160Z
@@ -151,6 +151,8 @@ docker compose up -d
 
 重启以后在网页输入你的服务器ip:8000 即可访问酒馆
 ![1panel_installation23.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation23.png)
+
+# 如果你无法访问 那么可能就需要到购买服务器的后台开放端口
 
 如果需要看后台 点击容器的日志即可查看
 ![1panel_installation22.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation22.png)
