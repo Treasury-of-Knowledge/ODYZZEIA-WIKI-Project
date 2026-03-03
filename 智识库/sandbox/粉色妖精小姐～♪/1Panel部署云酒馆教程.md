@@ -2,7 +2,7 @@
 title: 1Panel部署云酒馆教程
 description: 
 published: true
-date: 2026-03-03T14:32:59.615Z
+date: 2026-03-03T14:37:10.547Z
 tags: 教程, 部署, 云酒馆
 editor: markdown
 dateCreated: 2026-03-03T13:56:39.160Z
@@ -63,7 +63,7 @@ sudo -i
 如果你本来就是root 则不需要
 ![sudo_(1).png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/sudo_(1).png)
 然后输入密码 
-## 请注意 如果你在命令行输入密码 你是看不到密码的 这并不是bug 继续完整输入密码即可
+请注意 如果你在命令行输入密码 你是看不到密码的 这并不是bug 继续完整输入密码即可
 
 回车以后你就会发现变成了root
 ![root_(1).png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/root_(1).png)
@@ -79,10 +79,10 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 ![1panel_install_2.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/1panel_install_2.png)
 下面的操作 如果你的vps在国外 这里可以不用填y
 ![1panel_install_3.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/1panel_install_3.png)
-## 需要注意的有些服务器 可能需要到购买服务器的的官网后台去开放端口 请询问客服
+需要注意的有些服务器 可能需要到购买服务器的的官网后台去开放端口 请询问客服
 
 出现下面这个页面就是成功了
-## 然后请复制好这些信息 以后访问需要
+然后请复制好这些信息 以后访问需要
 ![1panel_install_4.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/1panel_install_4.png)
 
 随后访问链接 比如我的是 http://192.168.233.128:35349/2e6133c3f2
@@ -104,7 +104,7 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 点击这个位置来到主页面
 ![1panel_installation4.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation4.png)
 
-## 下面跟着依次进行点击即可
+下面跟着依次进行点击即可
 ![1panel_installation5.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation5.png)
 ![1panel_installation6.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation6.png)
 ![1panel_installation7.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation7.png)
@@ -138,7 +138,7 @@ docker compose up -d
 ![1panel_installation16.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation16.png)
 ![1panel_installation17.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation17.png)
 ![1panel_installation18.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation18.png)
-## 注意 用户名和密码不要设置太过简单
+**注意 用户名和密码不要设置太过简单**
 设置完成后保存
 
 保存关闭文件以后选择容器
