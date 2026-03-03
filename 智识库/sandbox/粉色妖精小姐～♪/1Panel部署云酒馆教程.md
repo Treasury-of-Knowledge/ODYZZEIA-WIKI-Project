@@ -1,9 +1,9 @@
 ---
 title: 1Panel部署云酒馆教程
 description: 
-published: false
-date: 2026-03-03T14:43:28.519Z
-tags: 教程, 部署, 云酒馆
+published: true
+date: 2026-03-03T14:44:17.550Z
+tags: 教程, 搭建部署, 部署, 云酒馆
 editor: markdown
 dateCreated: 2026-03-03T13:56:39.160Z
 ---
