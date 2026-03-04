@@ -2,7 +2,7 @@
 title: 1Panel部署云酒馆教程
 description: 
 published: true
-date: 2026-03-03T18:23:53.793Z
+date: 2026-03-04T06:37:21.950Z
 tags: 教程, 搭建部署, 部署, 云酒馆
 editor: markdown
 dateCreated: 2026-03-03T13:56:39.160Z
@@ -118,6 +118,9 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 ![1panel_installation10.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation10.png)
 
 输入以下命令后回车
+```
+cd SillyTavern/docker
+```
 ![1panel_installation11.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/installation/1panel_installation11.png)
 随后输入再继续输入
 ```
