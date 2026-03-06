@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-04T18:01:30.977Z
+date: 2026-03-06T05:33:59.458Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -28,16 +28,23 @@ dateCreated: 2026-03-04T16:32:50.366Z
 #### Python
 #### git
 ### 3.软件配置
-#### 预留固态硬盘空间（至少需留有100g～150g左右的空间）
+#### 预留固态硬盘空间
+> 若无另外说明，本教程所有文件均放在该硬盘中
+{.is-warning}
+
+至少需留有100g～150g左右的空间，**不要把任何文件随便放在C盘！！！**
 #### 设置虚拟内存
 （1）右击桌面上的“此电脑”，点击“属性”
-（2）在设置界面找到“高级电脑设置”
-（3）ugvuygiygyigiugiugytfhgvuyg标记
-（4）按照你现有有的内存大小（单位：g）进行设置（注意：你最终填入的数字是以mb为单位）：
+（2）在设置界面找到“高级系统设置”
+（3）在“高级”选项卡中“性能”栏选择“设置”
+（4）在“高级”选项卡中更改虚拟内存
+（5）**选中一个固态硬盘**，更改为“自定义大小”，按照你现有有的内存大小（单位：g）进行设置（注意：你最终填入的数字是以mb为单位）：
 初始值：内存大小×1.5×1024 mb
 最大值：内存大小×2×1024 mb
-vgjvjygkuukhuihuo示例
-vguvhjvuhvyivihgyihiuh图片
+
+**这里以32g实体内存为示范**
+![1.png](/all_upload_files_should_in_here/sandbox_area/rosemary/1.png)
+
 
 ### 4.生物资源
 （1）一颗大脑
@@ -45,6 +52,12 @@ vguvhjvuhvyivihgyihiuh图片
 （3）一双手
 
 ## 二、整合包部署
+> 本教程以b站up“**秋葉aaaki**”的**comfyUI整合包v2**作为示范
+{.is-info}
+
+### 1.整合包获取
+（1）
+![2.png](/all_upload_files_should_in_here/sandbox_area/rosemary/2.png)
 
 ## 三、工作流部署
 
