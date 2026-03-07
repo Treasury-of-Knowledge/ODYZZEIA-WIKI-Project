@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T10:12:34.602Z
+date: 2026-03-07T10:16:10.182Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -90,5 +90,5 @@ dateCreated: 2026-03-04T16:32:50.366Z
 （5）选择“内核”栏目，点击“刷新列表”，在稳定版中切换至v0.8.0
 （6）选择“安装新拓展”，在下方“拓展url”中填入：https://github.com/Aaalice233/ComfyUI-Aaalice-Pack-Unpack-Tool
 （7）等待安装完成
-（8）安装完成后，在启动器首页（一键启动），点击“自定义节点”，选择“ComfyUI-Aaalice-Pack-Unpack-Tool”文件夹
+（8）安装完成后，在启动器首页（一键启动），点击“自定义节点”，选择“ComfyUI-Aaalice-Pack-Unpack-Tool”文件夹→“exe”文件夹→双击“comfy-pack-unpack.exe”，
 ## 四、其他常见问题自查
