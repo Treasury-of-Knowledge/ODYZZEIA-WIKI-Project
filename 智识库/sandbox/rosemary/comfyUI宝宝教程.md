@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T15:34:45.519Z
+date: 2026-03-07T15:37:16.658Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -141,7 +141,7 @@ dateCreated: 2026-03-04T16:32:50.366Z
 （5）固定提示词串默认只开”默认质量串“，其他的根据后续学习凭感觉使用
 ![14.png](/all_upload_files_should_in_here/sandbox_area/rosemary/14.png)
 
-### 3.lora管理器
+### 3.Lora管理器
 > 非常好用的管理器，非常推荐学习！！！之后所有的底模和Lora都通过这个下载！！！
 {.is-info}
 
