@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T08:43:13.388Z
+date: 2026-03-07T10:12:34.602Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -29,6 +29,7 @@ dateCreated: 2026-03-04T16:32:50.366Z
 #### git
 ### 3.软件配置
 #### 预留固态硬盘空间
+#### 打开梯子的代理模式和虚拟网卡模式
 > 若无另外说明，本教程所有文件均放在该硬盘中
 {.is-warning}
 
@@ -45,6 +46,8 @@ dateCreated: 2026-03-04T16:32:50.366Z
 **这里以32g实体内存为示范**
 ![1.png](/all_upload_files_should_in_here/sandbox_area/rosemary/1.png)
 
+（6）**点击“设置”，然后电击“确认”**
+（7）弹出提示后重启电脑
 
 ### 4.生物资源
 （1）一颗大脑
@@ -56,20 +59,36 @@ dateCreated: 2026-03-04T16:32:50.366Z
 {.is-info}
 
 ### 1.整合包获取
-> 换一下图片
-{.is-warning}
 
 （1）在哔哩哔哩搜索“**秋葉aaaki**”（请注意鉴别，假冒账号很多）
-（2）打开秋葉个人主页动态，找到一个2026年vugyg月guvuggu日发布的动态，使用动态中的链接打开夸克网盘
+（2）打开秋葉个人主页动态，找到一个2026年1月19日发布的动态，使用动态中的链接打开夸克网盘
 （3）下载“**comfyUI-aki-v2**”压缩包
 > 不要下载v3版本！！！我们将更换默认的部分文件，使用v3可能会导致你最终因为缺少某些文件报错！最新的不一定是最好的！
 {.is-warning}
 
-（4）将压缩包解压至硬盘根目录，完成后打开该文件夹，双击打开“yuguygyguyguyg”，等待更新完毕，进入启动器主界面。
-
+（4）将压缩包解压至硬盘根目录，完成后打开该文件夹，双击打开“绘世启动器.exe”，等待更新完毕，进入启动器主界面。
+![2.1.png](/all_upload_files_should_in_here/sandbox_area/rosemary/2.1.png)
 
 ## 三、工作流部署
 > 本教程以“**Aaalice**”的**v12.2一键包**作为示范
 {.is-info}
 
+### 1.设置
+（1）在启动器侧栏找到“设置”，关闭“网络设置”中的所有条目
+![3.png](/all_upload_files_should_in_here/sandbox_area/rosemary/3.png)
+
+（2）打开“高级选项”，关闭“激进提速策略
+![4.png](/all_upload_files_should_in_here/sandbox_area/rosemary/4.png)”
+
+（3）打开“版本管理”，选择“拓展”栏目，点击“刷新列表”，先将所有插件取消勾选，仅勾选以下插件
+> 有部分插件名字相似！不要选错！！！
+{.is-warning}
+
+![5.png](/all_upload_files_should_in_here/sandbox_area/rosemary/5.png)
+
+（4）删除未勾选的插件，点击“一键更新”
+（5）选择“内核”栏目，点击“刷新列表”，在稳定版中切换至v0.8.0
+（6）选择“安装新拓展”，在下方“拓展url”中填入：https://github.com/Aaalice233/ComfyUI-Aaalice-Pack-Unpack-Tool
+（7）等待安装完成
+（8）安装完成后，在启动器首页（一键启动），点击“自定义节点”，选择“ComfyUI-Aaalice-Pack-Unpack-Tool”文件夹
 ## 四、其他常见问题自查
