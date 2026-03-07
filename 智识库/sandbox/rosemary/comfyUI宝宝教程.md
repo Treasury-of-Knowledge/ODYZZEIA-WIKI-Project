@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T15:37:16.658Z
+date: 2026-03-07T16:38:36.753Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -132,22 +132,57 @@ dateCreated: 2026-03-04T16:32:50.366Z
 
 （2）关闭弹窗，底图直接送入放大（你也不想跑一张图就系统通知你一次吧）
 ![11.png](/all_upload_files_should_in_here/sandbox_area/rosemary/11.png)
+
+**下图仅展示”全局参数说明“部分（最左边一列）的设置，下图中间和右侧的分区设置设置示范在（6）**
 ![12.png](/all_upload_files_should_in_here/sandbox_area/rosemary/12.png)
 
 （3）新手务必务必将”底图“和”放大“的checkpoint（底模）设置为同一个
+
 （4）**批次大小设置为1，不要动！！！**，需要批量跑图更改右上角”运行“右侧数字即可
 ![13.png](/all_upload_files_should_in_here/sandbox_area/rosemary/13.png)
 
 （5）固定提示词串默认只开”默认质量串“，其他的根据后续学习凭感觉使用
 ![14.png](/all_upload_files_should_in_here/sandbox_area/rosemary/14.png)
 
+（6）控制区（大部分情况通用）
+> 如果不知道具体调哪个模块的控制区，就让这一排都用一个设置
+{.is-info}
+
+![16.png](/all_upload_files_should_in_here/sandbox_area/rosemary/16.png)
+
 ### 3.Lora管理器
 > 非常好用的管理器，非常推荐学习！！！之后所有的底模和Lora都通过这个下载！！！
+{.is-info}
+
+> c站地址：https://civitai.com/
 {.is-info}
 
 **教程位置如下**
 红箭头为视频教程（推荐），**蓝箭头为Lora管理器按钮，点此进入，里面还有一个文字版教程**
 ![15.png](/all_upload_files_should_in_here/sandbox_area/rosemary/15.png)
+
+### 4.模型推荐
+> 模型非常推荐用Lora管理器下载，使用请看上方查找教程
+{.is-info}
+
+> c站地址：https://civitai.com/
+{.is-info}
+
+> 如下图，c站项目的左上角会显示：类型/基础模型。**搭配checkpoint和Lora时尽量选择基础模型一致的（除非你知道作者为其他基础模型做了兼容），不然会失效甚至崩图**
+{.is-warning}
+
+![17.png](/all_upload_files_should_in_here/sandbox_area/rosemary/17.png)
+
+#### checkpoint（底模）
+（1）WAI-illustrious-SDXL（版本：v16.0）：较为全能，新手推荐
+（2）Plant Milk 🌿 - Model Suite（版本：Hemp II）：画龙娘、猫娘等兽人好用
+（3）Plant Milk 🌿 - Model Suite（版本：Walnut）：暗色系
+（4）Anything XL（版本：v5.0）
+
+
+
+### 5.图片输出
+
 
 
 ## 五、其他常见问题自查
