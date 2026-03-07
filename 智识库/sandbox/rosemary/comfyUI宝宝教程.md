@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-06T05:49:39.235Z
+date: 2026-03-07T08:43:13.388Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -66,7 +66,7 @@ dateCreated: 2026-03-04T16:32:50.366Z
 {.is-warning}
 
 （4）将压缩包解压至硬盘根目录，完成后打开该文件夹，双击打开“yuguygyguyguyg”，等待更新完毕，进入启动器主界面。
-![2.png](/all_upload_files_should_in_here/sandbox_area/rosemary/2.png)
+
 
 ## 三、工作流部署
 > 本教程以“**Aaalice**”的**v12.2一键包**作为示范
