@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T13:10:33.577Z
+date: 2026-03-07T15:34:45.519Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -91,5 +91,63 @@ dateCreated: 2026-03-04T16:32:50.366Z
 （6）选择“安装新拓展”，在下方“拓展url”中填入：https://github.com/Aaalice233/ComfyUI-Aaalice-Pack-Unpack-Tool
 （7）等待安装完成
 （8）在等待时间下载该压缩包：[aaalice的工作流_一键包_v12.2_正式版.cpack.zip](/all_upload_files_should_in_here/sandbox_area/rosemary/aaalice的工作流_一键包_v12.2_正式版.cpack.zip)
-（9）安装完成后，在启动器首页（一键启动），点击“自定义节点”，选择“ComfyUI-Aaalice-Pack-Unpack-Tool”文件夹→“exe”文件夹→双击“comfy-pack-unpack.exe”，
-## 四、其他常见问题自查
+
+### 2.配置
+（1）安装完成后，在启动器首页（一键启动），点击“自定义节点”，选择“ComfyUI-Aaalice-Pack-Unpack-Tool”文件夹→“exe”文件夹→双击“comfy-pack-unpack.exe”
+（2）git和python正常来说会自动检测地址，压缩包选择你刚刚下载好的那个，comfyUI手动选择”ComfyUI-aki-v2“内的”comfyUI“文件夹
+**我的演示下载在d盘根目录，确保最后几个地址是对的就行**
+![6.png](/all_upload_files_should_in_here/sandbox_area/rosemary/6.png)
+
+（3）点击”开始解包“，等待复刻环境完成，**完成后仔细检查日志中是否出现红色报错**
+> 若出现以下报错，再次点击”开始解包“，会自动检测缺失文件，直至无任何报错出现
+{.is-danger}
+
+![7.png](/all_upload_files_should_in_here/sandbox_area/rosemary/7.png)
+
+（4）打开“版本管理”，选择“拓展”栏目，点击“刷新列表”，找到”comfyUI-Danbooru-Gallery“插件，点击更新该插件
+> 其他插件能用就不动
+{.is-warning}
+
+（5）在启动器首页（一键启动），点击右下角”一键启动“，等待所有文件安装完成后自动在默认浏览器开启页面
+
+
+## 四、使用（简易版）
+
+### 1.工作流导入
+（1）如图
+![8.png](/all_upload_files_should_in_here/sandbox_area/rosemary/8.png)
+
+（2）在comfyUI的目录中按下图找到图中所示json文件，打开
+![9.png](/all_upload_files_should_in_here/sandbox_area/rosemary/9.png)
+
+### 2.推荐设置
+> 截图右下角一般会带有底图，白框框出的区域就是屏幕所在位置，地图可以直接点击跳转
+{.is-info}
+
+> **按住空格键在用鼠标拖动可以避免选中节点（非常好用）**
+{.is-info}
+
+（1）下载模型，图中为基础版必下
+![10.png](/all_upload_files_should_in_here/sandbox_area/rosemary/10.png)
+
+（2）关闭弹窗，底图直接送入放大（你也不想跑一张图就系统通知你一次吧）
+![11.png](/all_upload_files_should_in_here/sandbox_area/rosemary/11.png)
+![12.png](/all_upload_files_should_in_here/sandbox_area/rosemary/12.png)
+
+（3）新手务必务必将”底图“和”放大“的checkpoint（底模）设置为同一个
+（4）**批次大小设置为1，不要动！！！**，需要批量跑图更改右上角”运行“右侧数字即可
+![13.png](/all_upload_files_should_in_here/sandbox_area/rosemary/13.png)
+
+（5）固定提示词串默认只开”默认质量串“，其他的根据后续学习凭感觉使用
+![14.png](/all_upload_files_should_in_here/sandbox_area/rosemary/14.png)
+
+### 3.lora管理器
+> 非常好用的管理器，非常推荐学习！！！之后所有的底模和Lora都通过这个下载！！！
+{.is-info}
+
+**教程位置如下**
+红箭头为视频教程（推荐），**蓝箭头为Lora管理器按钮，点此进入，里面还有一个文字版教程**
+![15.png](/all_upload_files_should_in_here/sandbox_area/rosemary/15.png)
+
+
+## 五、其他常见问题自查
