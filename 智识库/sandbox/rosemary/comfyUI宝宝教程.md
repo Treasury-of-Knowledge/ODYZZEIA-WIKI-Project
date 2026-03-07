@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T16:54:43.990Z
+date: 2026-03-07T16:58:25.978Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -196,7 +196,10 @@ dateCreated: 2026-03-04T16:32:50.366Z
 {.is-info}
 
 ### 6.图片输出
+> 文件在这里，我们可以删掉所有”底图“，只留下放大后的图片进行筛选
+{.is-info}
 
+![18.1.png](/all_upload_files_should_in_here/sandbox_area/rosemary/18.1.png)
 
 
 ## 五、其他常见问题自查
