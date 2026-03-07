@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T16:58:25.978Z
+date: 2026-03-07T17:01:31.731Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -203,3 +203,6 @@ dateCreated: 2026-03-04T16:32:50.366Z
 
 
 ## 五、其他常见问题自查
+
+### 1.节点爆红
+插件缺失，在上文”配置“栏目按提示重新载入
