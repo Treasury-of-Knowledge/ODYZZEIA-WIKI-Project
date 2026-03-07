@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: true
-date: 2026-03-07T17:55:00.789Z
+date: 2026-03-07T17:55:52.384Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -58,6 +58,8 @@ dateCreated: 2026-03-04T16:32:50.366Z
 （2）一双眼睛
 （3）一双手
 
+---
+
 ## 二、整合包部署
 > 本教程以b站up“**秋葉aaaki**”的**comfyUI整合包v2**作为示范
 {.is-info}
@@ -72,6 +74,8 @@ dateCreated: 2026-03-04T16:32:50.366Z
 
 （4）将压缩包解压至硬盘根目录，完成后打开该文件夹，双击打开“绘世启动器.exe”，等待更新完毕，进入启动器主界面。
 ![2.1.png](/all_upload_files_should_in_here/sandbox_area/rosemary/2.1.png)
+
+---
 
 ## 三、工作流部署
 > 本教程以“**Aaalice**”的**v12.2一键包**作为示范
@@ -114,6 +118,7 @@ dateCreated: 2026-03-04T16:32:50.366Z
 
 （5）在启动器首页（一键启动），点击右下角”一键启动“，等待所有文件安装完成后自动在默认浏览器开启页面
 
+---
 
 ## 四、使用（简易版）
 
@@ -210,6 +215,7 @@ dateCreated: 2026-03-04T16:32:50.366Z
 
 ![18.1.png](/all_upload_files_should_in_here/sandbox_area/rosemary/18.1.png)
 
+---
 
 ## 五、其他常见问题自查
 
@@ -221,8 +227,12 @@ dateCreated: 2026-03-04T16:32:50.366Z
 
 ### 3.没想好，应该不能有问题了
 
+---
+
 ## 六、其他
 更新计划：局部重绘使用心得，跑图心得，服装串分享，社区人物志
+
+---
 
 ## 七、致谢
 1.感谢”秋葉aaaki“为大家无偿制作了整合包
