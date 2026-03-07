@@ -1,8 +1,8 @@
 ---
 title: comfyUI宝宝教程v0.1
 description: 
-published: false
-date: 2026-03-07T17:37:32.384Z
+published: true
+date: 2026-03-07T17:37:58.990Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
