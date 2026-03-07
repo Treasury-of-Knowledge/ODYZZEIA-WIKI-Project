@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T16:38:36.753Z
+date: 2026-03-07T16:45:53.489Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -177,8 +177,18 @@ dateCreated: 2026-03-04T16:32:50.366Z
 （1）WAI-illustrious-SDXL（版本：v16.0）：较为全能，新手推荐
 （2）Plant Milk 🌿 - Model Suite（版本：Hemp II）：画龙娘、猫娘等兽人好用
 （3）Plant Milk 🌿 - Model Suite（版本：Walnut）：暗色系
-（4）Anything XL（版本：v5.0）
+（4）Anything XL（版本：v5.0）：全能，但是作者用的少
+（5）CuteYukiMix(特化可爱风格adorable style）（版本：kemiaomiao）：q版/可爱画风
 
+#### Lora
+暂无，按需使用，不用Lora也可以跑出精美的图片
+
+#### embedding
+> **很重要，和下面的负面提示词串配合使用**
+{.is-warning}
+
+（1）EasyNegative
+（2）negative_hand Negative Embedding
 
 
 ### 5.图片输出
