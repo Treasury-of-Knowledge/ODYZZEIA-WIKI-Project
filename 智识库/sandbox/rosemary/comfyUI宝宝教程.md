@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T17:01:31.731Z
+date: 2026-03-07T17:16:48.432Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -195,7 +195,12 @@ dateCreated: 2026-03-04T16:32:50.366Z
 > easynegative, negative_hand, bad quality, worst quality, low quality, worst detail, lowres, jpeg artifacts, bad anatomy, signature, watermark, copyright name, artist name, username
 {.is-info}
 
-### 6.图片输出
+### 6.开始
+在工作流右上角”运行“右侧调整数量，点击”运行“即可
+
+建议：先2张2张跑，用于修正提示词，确认效果满意后8张8张跑，每次更换不同的动作
+
+### 7.图片输出
 > 文件在这里，我们可以删掉所有”底图“，只留下放大后的图片进行筛选
 {.is-info}
 
@@ -206,3 +211,7 @@ dateCreated: 2026-03-04T16:32:50.366Z
 
 ### 1.节点爆红
 插件缺失，在上文”配置“栏目按提示重新载入
+
+### 2.节点内部栏目爆红
+模型缺失，在工作流最左侧查看提示/看我的推荐/看Lora管理器教程
+
