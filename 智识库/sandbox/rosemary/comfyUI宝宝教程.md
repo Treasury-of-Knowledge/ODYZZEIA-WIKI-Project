@@ -2,14 +2,14 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T17:33:36.302Z
+date: 2026-03-07T17:37:32.384Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
 ---
 
 # ComfyUI宝宝教程（施工ing）
-> 教程作者：rosemary.rosemary——175高冷御姐/高贵优雅威严的血族始祖
+> 教程作者：**rosemary.rosemary——175高冷御姐/高贵优雅威严的血族始祖**
 
 ## 概述
   ComfyUI 是一个基于节点式工作流的开源图形用户界面，专门用于设计和执行 AI 图像生成模型（以 Stable Diffusion 系列为主）的创作流程。
