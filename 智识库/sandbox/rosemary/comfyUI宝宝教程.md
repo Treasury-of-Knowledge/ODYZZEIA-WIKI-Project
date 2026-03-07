@@ -2,13 +2,13 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: true
-date: 2026-03-07T17:37:58.990Z
+date: 2026-03-07T17:38:32.522Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
 ---
 
-# ComfyUI宝宝教程（施工ing）
+# ComfyUI宝宝教程v0.1
 > 教程作者：**rosemary.rosemary——175高冷御姐/高贵优雅威严的血族始祖**
 
 ## 概述
