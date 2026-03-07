@@ -2,7 +2,7 @@
 title: 类脑 Discord 相关
 description: 
 published: true
-date: 2026-03-06T17:21:29.431Z
+date: 2026-03-07T10:42:20.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-07T15:45:25.925Z
@@ -30,10 +30,16 @@ dateCreated: 2025-03-07T15:45:25.925Z
 
 <ul class="links-list">
   <li>
-    <a href="" class="is-internal-link is-valid-page">类脑Discord相关
-      <em></em>
+    <a href="/智识库/sandbox/1009/资源区指南" class="is-internal-link is-valid-page">类脑Discord相关
+      <em>资源区指南</em>
     </a>
   </li>
 </ul>
 
----
+<ul class="links-list">
+  <li>
+    <a href="/智识库/sandbox/1009/答疑区指南" class="is-internal-link is-valid-page">类脑Discord相关
+      <em>答疑区指南</em>
+    </a>
+  </li>
+</ul>
