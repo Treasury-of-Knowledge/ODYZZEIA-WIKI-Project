@@ -1,0 +1,89 @@
+:root {
+    --custom-loader-img: url("");
+}
+
+#loader, #preloader {
+    position: fixed !important;
+    inset: 0 !important;
+    z-index: 2000;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background: color-mix(in srgb, var(--smart-theme-body-color) 20%, transparent) !important;
+    backdrop-filter: blur(20px) !important;
+
+
+    pointer-events: none !important;
+}
+
+
+#load-spinner {
+    top: auto !important;
+    left: auto !important;
+    position: relative !important;
+    margin: 0 !important;
+    transform: none !important;
+
+
+    min-width: 80px !important;
+    min-height: 80px !important;
+    aspect-ratio: 1/1 !important;
+    background-image: var(--custom-loader-img) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+
+
+    background-color: transparent !important;
+    border: none !important;
+    font-size: 0 !important;
+    color: transparent !important;
+}
+
+
+.fa-spinner, .fa-spin, #load-spinner {
+    color: transparent !important;
+    font-size: 0 !important;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2em !important;
+    height: 2em !important;
+    aspect-ratio: 1 / 1 !important;
+    overflow: visible !important;
+
+    &::before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        translate: -50% -50%;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        padding: 3px;
+        background: conic-gradient(from 0deg, var(--theme-color-1) 30%, transparent 60%, var(--theme-color-1));
+        -webkit-mask: radial-gradient(farthest-side, transparent calc(100% - 2.5px), #fff 0);
+        mask: radial-gradient(farthest-side, transparent calc(100% - 2.5px), #fff 0);
+        animation: fluid-rotate 1.2s var(--anim-curve-standard) infinite;
+        filter: drop-shadow(0 0 8px var(--theme-color-1));
+    }
+}
+
+
+#load-spinner {
+    width: 64px !important;
+    height: 64px !important;
+
+    &::before {
+        padding: 4px;
+        -webkit-mask: radial-gradient(farthest-side, transparent calc(100% - 4px), #fff 0);
+        mask: radial-gradient(farthest-side, transparent calc(100% - 4px), #fff 0);
+        filter: drop-shadow(0 0 15px var(--theme-color-1));
+    }
+}
+
+@keyframes fluid-rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
