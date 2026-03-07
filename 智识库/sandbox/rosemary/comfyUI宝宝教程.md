@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T17:16:48.432Z
+date: 2026-03-07T17:33:36.302Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -90,7 +90,7 @@ dateCreated: 2026-03-04T16:32:50.366Z
 （5）选择“内核”栏目，点击“刷新列表”，在稳定版中切换至v0.8.0
 （6）选择“安装新拓展”，在下方“拓展url”中填入：https://github.com/Aaalice233/ComfyUI-Aaalice-Pack-Unpack-Tool
 （7）等待安装完成
-（8）在等待时间下载该压缩包：[aaalice的工作流_一键包_v12.2_正式版.cpack.zip](/all_upload_files_should_in_here/sandbox_area/rosemary/aaalice的工作流_一键包_v12.2_正式版.cpack.zip)
+（8）在等待时间下载Aaalice大佬的压缩包：[aaalice的工作流_一键包_v12.2_正式版.cpack.zip](/all_upload_files_should_in_here/sandbox_area/rosemary/aaalice的工作流_一键包_v12.2_正式版.cpack.zip)
 
 ### 2.配置
 （1）安装完成后，在启动器首页（一键启动），点击“自定义节点”，选择“ComfyUI-Aaalice-Pack-Unpack-Tool”文件夹→“exe”文件夹→双击“comfy-pack-unpack.exe”
@@ -198,7 +198,7 @@ dateCreated: 2026-03-04T16:32:50.366Z
 ### 6.开始
 在工作流右上角”运行“右侧调整数量，点击”运行“即可
 
-建议：先2张2张跑，用于修正提示词，确认效果满意后8张8张跑，每次更换不同的动作
+**建议**：先2张2张跑，用于修正提示词，确认效果满意后8张8张跑，每次更换不同的动作/服装提示词
 
 ### 7.图片输出
 > 文件在这里，我们可以删掉所有”底图“，只留下放大后的图片进行筛选
@@ -215,3 +215,12 @@ dateCreated: 2026-03-04T16:32:50.366Z
 ### 2.节点内部栏目爆红
 模型缺失，在工作流最左侧查看提示/看我的推荐/看Lora管理器教程
 
+### 3.没想好，应该不能有问题了
+
+## 六、其他
+更新计划：局部重绘使用心得，跑图心得，服装串分享，社区人物志
+
+## 七、致谢
+1.感谢”秋葉aaaki“为大家无偿制作了整合包
+2.感谢”Aaalice“为大家无偿制作了工作流，并授权我直接在本贴转载他的一键包
+3.感谢社区的大家，是大家让我感受到了社区的温暖，这篇教程也是由此而生
