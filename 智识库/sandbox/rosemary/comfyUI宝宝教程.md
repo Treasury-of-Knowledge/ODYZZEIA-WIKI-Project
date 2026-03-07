@@ -2,7 +2,7 @@
 title: comfyUI宝宝教程v0.1
 description: 
 published: false
-date: 2026-03-07T16:45:53.489Z
+date: 2026-03-07T16:54:43.990Z
 tags: 教程, comfyui
 editor: markdown
 dateCreated: 2026-03-04T16:32:50.366Z
@@ -190,8 +190,12 @@ dateCreated: 2026-03-04T16:32:50.366Z
 （1）EasyNegative
 （2）negative_hand Negative Embedding
 
+### 5.通用负面提示词推荐
+若出图无明显问题，这个可以通用
+> easynegative, negative_hand, bad quality, worst quality, low quality, worst detail, lowres, jpeg artifacts, bad anatomy, signature, watermark, copyright name, artist name, username
+{.is-info}
 
-### 5.图片输出
+### 6.图片输出
 
 
 
