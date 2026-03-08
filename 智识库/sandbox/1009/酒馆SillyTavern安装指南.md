@@ -2,13 +2,14 @@
 title: 酒馆SillyTavern安装指南
 description: 
 published: true
-date: 2026-03-07T15:26:11.912Z
-tags: 
+date: 2026-03-08T09:01:15.219Z
+tags: discord
 editor: markdown
 dateCreated: 2026-03-07T15:26:11.912Z
 ---
 
 # 酒馆SillyTavern安装指南&酒馆初始设置
+
 原作者：FoX | 𝓚𝓚𝓣𝓼𝓝(橘狐)
 
 ## 酒馆的安装和初始设置
