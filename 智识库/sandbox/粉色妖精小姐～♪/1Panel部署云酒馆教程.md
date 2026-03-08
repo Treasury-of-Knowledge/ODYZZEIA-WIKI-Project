@@ -2,7 +2,7 @@
 title: 1Panel部署云酒馆教程
 description: 
 published: true
-date: 2026-03-04T06:37:21.950Z
+date: 2026-03-08T14:11:15.399Z
 tags: 教程, 搭建部署, 部署, 云酒馆
 editor: markdown
 dateCreated: 2026-03-03T13:56:39.160Z
@@ -79,12 +79,11 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 ![1panel_install_2.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/1panel_install_2.png)
 下面的操作 如果你的vps在国外 这里可以不用填y
 ![1panel_install_3.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/1panel_install_3.png)
-需要注意的有些服务器 可能需要到购买服务器的的官网后台去开放端口 请询问客服
+# 需要注意的有些服务器 可能需要到购买服务器的的官网后台去开放端口 请询问客服
 
 出现下面这个页面就是成功了
-# 然后请复制好这些信息 以后访问需要
 ![1panel_install_4.png](/all_upload_files_should_in_here/sandbox_area/elysia/1panel_sillytavern/1panel_install_4.png)
-
+# 然后请复制好这些信息 以后访问需要
 随后访问链接 比如我的是 http://192.168.233.128:35349/2e6133c3f2
 我是虚拟机演示 所以你们访问的时候使用访问外部地址
 到这个页面 就输入上面的面板用户 和面板密码 登陆即可
