@@ -2,8 +2,8 @@
 title: 获取AI渠道
 description: 
 published: true
-date: 2026-03-08T08:35:53.257Z
-tags: 导航页, 内部
+date: 2026-03-08T08:43:16.303Z
+tags: 导航页, 内部, discord
 editor: markdown
 dateCreated: 2025-02-15T06:30:38.072Z
 ---
