@@ -2,7 +2,7 @@
 title: 获取AI渠道
 description: 
 published: true
-date: 2026-03-08T08:46:03.294Z
+date: 2026-03-15T07:48:11.413Z
 tags: 导航页, discord
 editor: markdown
 dateCreated: 2025-02-15T06:30:38.072Z
@@ -13,7 +13,7 @@ dateCreated: 2025-02-15T06:30:38.072Z
     <img src="/all_upload_files_should_in_here/sandbox_area/fangsuqi/部署墙纸.jpg" alt="封面图" id="cover-image" style="width: 100%; height: 400px; object-fit: cover; object-position: 50% 0%;filter: blur(0.7px); border-radius: 20px 20px 5px 5px; border: 1px solid rgba(52, 100, 158);">
 </div>
 
-# 获取ai渠道
+# 获取AI渠道
 ---
 酒馆部署完了？太棒了！现在让我们给酒馆赋予最重要的灵魂吧！
 
