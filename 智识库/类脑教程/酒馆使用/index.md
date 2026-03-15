@@ -2,7 +2,7 @@
 title: SillyTavern (酒馆) 使用
 description: 目录
 published: true
-date: 2026-03-15T07:47:52.415Z
+date: 2026-03-15T07:50:10.525Z
 tags: 酒馆使用, 目录
 editor: markdown
 dateCreated: 2025-02-12T06:23:55.235Z
@@ -15,13 +15,6 @@ dateCreated: 2025-02-12T06:23:55.235Z
 
 
 # SillyTavern (酒馆) 使用
----
-欢迎踏出前往酒馆的第一步——搭建部署你自己的酒馆。
-
-在这里有来自类脑的各位的集思广益，从pc到vps的各种平台，总有一款适合你。
-
-现在，就从这里选择一个最适合你的部署方法来开启你的酒馆之旅吧！
-
 ---
 
 <ul class="links-list">
