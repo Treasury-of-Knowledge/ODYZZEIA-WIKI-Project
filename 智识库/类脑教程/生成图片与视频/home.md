@@ -2,7 +2,7 @@
 title: 其他教程
 description: 带你玩转其他AIGC领域！
 published: true
-date: 2026-03-15T07:31:08.345Z
+date: 2026-03-15T07:31:46.966Z
 tags: 教程, comfyui, aigc
 editor: markdown
 dateCreated: 2026-03-08T07:58:26.172Z
@@ -23,7 +23,7 @@ dateCreated: 2026-03-08T07:58:26.172Z
     </a>
   </li>
     <li>
-    <a href="/智识库/sandbox/rosemary/comfyUI宝宝教程" class="is-internal-link is-valid-page">杂项
+    <a href="/智识库/sandbox/rosemary/【转载】酒馆开场加载图标替换" class="is-internal-link is-valid-page">杂项
       <em>【转载】酒馆开场加载图标替换</em>
     </a>
   </li>
