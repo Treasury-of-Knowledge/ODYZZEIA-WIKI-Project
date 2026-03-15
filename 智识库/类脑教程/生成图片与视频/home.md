@@ -2,7 +2,7 @@
 title: 其他教程
 description: 带你玩转其他AIGC领域！
 published: true
-date: 2026-03-15T07:50:42.526Z
+date: 2026-03-15T08:28:35.292Z
 tags: 教程, comfyui, aigc
 editor: markdown
 dateCreated: 2026-03-08T07:58:26.172Z
@@ -16,6 +16,8 @@ dateCreated: 2026-03-08T07:58:26.172Z
 # 其他教程
 ---
 意犹未尽？真棒！这里还存放了一些其他的教程！
+> 请注意：本板块内容未经专业人士严格审核，因此仅供学习参考。在使用过程中如遇到问题，欢迎联系我们进行友好交流或协助修订。
+{.is-warning}
 
 ---
 # 目录
