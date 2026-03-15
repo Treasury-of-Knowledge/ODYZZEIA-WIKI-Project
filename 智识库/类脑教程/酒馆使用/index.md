@@ -2,7 +2,7 @@
 title: 酒馆使用
 description: 目录
 published: true
-date: 2026-03-08T14:11:48.948Z
+date: 2026-03-15T07:12:28.623Z
 tags: 酒馆使用, 目录
 editor: markdown
 dateCreated: 2025-02-12T06:23:55.235Z
@@ -113,13 +113,3 @@ dateCreated: 2025-02-12T06:23:55.235Z
 </ul>
 
 ---
-
-## 其他向
-
-<ul class="links-list">
-  <li>
-    <a href="/智识库/sandbox/rosemary/【转载】酒馆开场加载图标替换" class="is-internal-link is-valid-page">酒馆使用
-      <em>【转载】酒馆开场加载图标替换</em>
-    </a>
-  </li>
-</ul>
