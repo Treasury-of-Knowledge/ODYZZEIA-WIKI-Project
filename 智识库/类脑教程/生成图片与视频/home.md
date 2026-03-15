@@ -2,7 +2,7 @@
 title: 其他教程
 description: 带你玩转其他AIGC领域！
 published: true
-date: 2026-03-15T07:31:46.966Z
+date: 2026-03-15T07:32:38.613Z
 tags: 教程, comfyui, aigc
 editor: markdown
 dateCreated: 2026-03-08T07:58:26.172Z
