@@ -1,8 +1,8 @@
 ---
-title: 类脑 Discord 相关
+title: 社区指南
 description: 
 published: true
-date: 2026-03-07T10:42:20.326Z
+date: 2026-03-15T07:44:22.650Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-07T15:45:25.925Z
@@ -12,10 +12,6 @@ dateCreated: 2025-03-07T15:45:25.925Z
     <!-- 背景图片 -->
     <img src="/all_upload_files_should_in_here/index/whvn.jpg" alt="封面图" id="cover-image" style="width: 100%; height: 400px; object-fit: cover; object-position: 50% 30%;filter: blur(0.7px); border-radius: 20px 20px 5px 5px; border: 1px solid rgba(52, 100, 158);">
 </div>
-
-# 类脑Discord相关
----
-
 
 ---
 # 目录
