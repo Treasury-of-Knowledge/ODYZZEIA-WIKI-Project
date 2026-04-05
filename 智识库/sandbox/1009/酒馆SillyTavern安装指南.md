@@ -2,7 +2,7 @@
 title: 酒馆SillyTavern安装指南
 description: 
 published: true
-date: 2026-03-08T09:01:15.219Z
+date: 2026-04-05T04:19:46.066Z
 tags: discord
 editor: markdown
 dateCreated: 2026-03-07T15:26:11.912Z
@@ -68,13 +68,13 @@ Git是用来安装酒馆以及后续插件的。到[git官网](https://git-scm.c
 
 按win（一般在键盘上空格和Alt的左边！）+ X，选择Windows PowerShell （管理员），输入：
 ``` 
-⁨⁨git -v; node -v; npm -v; Read-Host " " 
+⁨⁨git -v; node -v; npm -v; Read-Host " "
 ```
 
 把这一行命令直接粘贴进去，按回车。如果输出是三行版本号，例如：
 ```
 git version 2.52.0.windows.1
-v22.14.0⁩⁩
+v22.14.0⁩⁩ 
 10.9.2
 ```
 
