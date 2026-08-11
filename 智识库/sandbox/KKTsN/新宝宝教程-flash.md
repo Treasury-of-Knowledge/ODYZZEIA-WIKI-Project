@@ -2,13 +2,15 @@
 title: 【入门先看这个】新一站式宝宝教程
 description: 
 published: true
-date: 2026-01-18T13:33:04.946Z
+date: 2026-08-11T17:16:53.371Z
 tags: 教程, 酒馆, 酒馆使用
 editor: markdown
 dateCreated: 2025-07-16T04:21:19.440Z
 ---
 
 # 一站式宝宝教程-flash-12-07
+
+如果你在 2026 年或者更晚来看，那么这个教程的内容已经严重过时，请移步 [本wiki没被标为过时的部署教程](https://wiki.类脑.org/zh/%E6%99%BA%E8%AF%86%E5%BA%93/%E7%B1%BB%E8%84%91%E6%95%99%E7%A8%8B/%E6%90%AD%E5%BB%BA%E9%83%A8%E7%BD%B2/home) 或者类脑DC内部的[道馆挑战](https://discord.com/channels/1134557553011998840/1465998294089072837)
 
 # 0 简介
 
